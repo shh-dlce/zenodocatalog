@@ -3079,16 +3079,16 @@
             "access_conditions": null,
             "doi": "10.5281/zenodo.1318199",
             "prereserve_doi": {
-                "recid": 1318199,
-                "doi": "10.5281/zenodo.1318199"
+                "doi": "10.5281/zenodo.1318199",
+                "recid": 1318199
             },
             "keywords": [],
             "notes": "",
             "related_identifiers": [
                 {
-                    "scheme": "url",
+                    "identifier": "https://github.com/lexibank/chaconcolumbian/tree/v1.0",
                     "relation": "isSupplementTo",
-                    "identifier": "https://github.com/lexibank/chaconcolumbian/tree/v1.0"
+                    "scheme": "url"
                 }
             ],
             "contributors": [],

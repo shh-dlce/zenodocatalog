@@ -3109,7 +3109,13 @@
                     "identifier": "dighl"
                 },
                 {
+                    "identifier": "ecfunded"
+                },
+                {
                     "identifier": "lexibank"
+                },
+                {
+                    "identifier": "zenodo"
                 }
             ],
             "grants": [
@@ -3142,9 +3148,9 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-07-20T15:01:56.888391",
+        "created": "2018-07-20T15:01:56.888391+00:00",
         "id": 1318199,
-        "modified": "2020-04-14T06:17:21.254687",
+        "modified": "2020-04-14T10:12:15.644337+00:00",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -3152,7 +3158,7 @@
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/63566542-8661-4008-9d34-8519cd1d905b/lexibank/chaconcolumbian-v1.0.zip",
+                    "download": "https://zenodo.org/api/files/000ac479-51f5-4891-aeeb-ac45f592a931/lexibank/chaconcolumbian-v1.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1318199/files/81003cb9-7e07-40d5-a33a-ea3921a63294"
                 },
                 "filename": "lexibank/chaconcolumbian-v1.0.zip",
@@ -3419,7 +3425,13 @@
                     "identifier": "dighl"
                 },
                 {
+                    "identifier": "ecfunded"
+                },
+                {
                     "identifier": "lexibank"
+                },
+                {
+                    "identifier": "zenodo"
                 }
             ],
             "grants": [
@@ -3452,9 +3464,9 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-07-27T15:02:36.894319",
+        "created": "2018-07-27T15:02:36.894319+00:00",
         "id": 1322713,
-        "modified": "2020-04-14T06:17:22.630851",
+        "modified": "2020-04-14T10:12:24.495364+00:00",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -3462,7 +3474,7 @@
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/2d128d6d-05e6-4748-9d01-c750029a4e79/lexibank/chaconcolumbian-v1.1.zip",
+                    "download": "https://zenodo.org/api/files/7587c22e-dcc2-44de-a52c-1d82bc0684a8/lexibank/chaconcolumbian-v1.1.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1322713/files/7bea0873-1bd5-41dc-b195-69e6dc7d99e5"
                 },
                 "filename": "lexibank/chaconcolumbian-v1.1.zip",

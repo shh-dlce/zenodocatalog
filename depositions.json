@@ -9518,15 +9518,13 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-04-09",
-            "title": "lexibank/chenhmongmien: Hmong-Mien Varieties",
+            "title": "CLDF dataset derived from Ch\u00e9n's \"Miao and Yao Language\" from 2012",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Mei-Shin Wu"
+                    "name": "Johann-Mattis List"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
+                    "name": "Mei-Shin Wu"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Chen, Qiguang (2013) : Miao and Yao language. Beijing: Ethnic Publishing House</p>\n</blockquote>",
@@ -9551,7 +9549,16 @@
                     "scheme": "url"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "name": "Doug Cooper",
+                    "type": "DataCurator"
+                },
+                {
+                    "name": "Doug Cooper",
+                    "type": "Distributor"
+                }
+            ],
             "references": [],
             "communities": [
                 {
@@ -9561,7 +9568,13 @@
                     "identifier": "clics"
                 },
                 {
+                    "identifier": "ecfunded"
+                },
+                {
                     "identifier": "lexibank"
+                },
+                {
+                    "identifier": "zenodo"
                 }
             ],
             "grants": [],
@@ -9590,17 +9603,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-04-09T12:57:43.032599",
+        "created": "2019-04-09T12:57:43.032599+00:00",
         "id": 2634108,
-        "modified": "2020-04-06T11:40:37.451205",
+        "modified": "2020-04-14T12:29:50.463603+00:00",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/chenhmongmien: Hmong-Mien Varieties",
+        "title": "CLDF dataset derived from Ch\u00e9n's \"Miao and Yao Language\" from 2012",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/a81c8fc7-3221-4c71-9314-9eea5290e930/lexibank/chenhmongmien-v1.0.zip",
+                    "download": "https://zenodo.org/api/files/9265a4dc-8942-44ec-8f9f-f037d5250b93/lexibank/chenhmongmien-v1.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/2634108/files/d31d3cd5-45e8-4365-a7e9-6913b8003318"
                 },
                 "filename": "lexibank/chenhmongmien-v1.0.zip",
@@ -13977,15 +13990,13 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-07-04",
-            "title": "lexibank/chenhmongmien: Hmong-Mien Varieties",
+            "title": "CLDF dataset derived from Ch\u00e9n's \"Miao and Yao Language\" from 2012",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Mei Shin Wu"
+                    "name": "Johann-Mattis List"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
+                    "name": "Mei-Shin Wu"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Chen, Qiguang (2013) : Miao and Yao language. Beijing: Ethnic Publishing House</p>\n</blockquote>",
@@ -14010,7 +14021,16 @@
                     "scheme": "url"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "name": "Doug Cooper",
+                    "type": "DataCurator"
+                },
+                {
+                    "name": "Doug Cooper",
+                    "type": "Distributor"
+                }
+            ],
             "references": [],
             "communities": [
                 {
@@ -14055,17 +14075,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-07-04T06:55:57.886921",
+        "created": "2019-07-04T06:55:57.886921+00:00",
         "id": 3268372,
-        "modified": "2020-04-06T11:40:37.892380",
+        "modified": "2020-04-14T12:29:53.567335+00:00",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "lexibank/chenhmongmien: Hmong-Mien Varieties",
+        "title": "CLDF dataset derived from Ch\u00e9n's \"Miao and Yao Language\" from 2012",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/a06f7433-85ef-4dfc-81a4-af099cdba4bd/lexibank/chenhmongmien-v1.1.zip",
+                    "download": "https://zenodo.org/api/files/78c3be0e-73eb-43f7-b4b9-134146603efb/lexibank/chenhmongmien-v1.1.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/3268372/files/3564f8af-d6fb-4dfb-a1f3-e7043145f55c"
                 },
                 "filename": "lexibank/chenhmongmien-v1.1.zip",
@@ -19669,15 +19689,13 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-11-11",
-            "title": "lexibank/chenhmongmien: Miao and Yao Language",
+            "title": "CLDF dataset derived from Ch\u00e9n's \"Miao and Yao Language\" from 2012",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Johann-Mattis List"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Mei Shin Wu"
+                    "name": "Mei-Shin Wu"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Ch&eacute;n, Q&iacute;gu\u0101ng \u9673\u5176\u5149 (2012): Mi&aacute;oy&aacute;o y\u01d4w&eacute;n \u82d7\u7464\u8bed\u6587 [Miao and Yao language]. Zh\u014dngy\u0101ng M&iacute;nz&uacute; D&agrave;xu&eacute; \u4e2d\u592e\u6c11\u65cf\u5927\u5b66 [China Minzu University Press].</p>\n</blockquote>",
@@ -19704,7 +19722,16 @@
                     "scheme": "url"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "name": "Doug Cooper",
+                    "type": "DataCurator"
+                },
+                {
+                    "name": "Doug Cooper",
+                    "type": "Distributor"
+                }
+            ],
             "references": [],
             "communities": [
                 {
@@ -19753,17 +19780,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-11-11T14:02:25.621749",
+        "created": "2019-11-11T14:02:25.621749+00:00",
         "id": 3537712,
-        "modified": "2020-04-06T11:40:38.287095",
+        "modified": "2020-04-14T12:29:56.195923+00:00",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "lexibank/chenhmongmien: Miao and Yao Language",
+        "title": "CLDF dataset derived from Ch\u00e9n's \"Miao and Yao Language\" from 2012",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/149ce8c2-f1cd-4329-991b-9a0d24000977/lexibank/chenhmongmien-v2.0.1.zip",
+                    "download": "https://zenodo.org/api/files/869a7126-be5f-47d6-9d3d-79fd61070951/lexibank/chenhmongmien-v2.0.1.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/3537712/files/4b430e91-2962-4cf7-a4ec-c287923e530c"
                 },
                 "filename": "lexibank/chenhmongmien-v2.0.1.zip",
@@ -24180,15 +24207,13 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2020-04-06",
-            "title": "lexibank/chenhmongmien: Miao and Yao Language",
+            "title": "CLDF dataset derived from Ch\u00e9n's \"Miao and Yao Language\" from 2012",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Mei Shin Wu"
+                    "name": "Johann-Mattis List"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
+                    "name": "Mei-Shin Wu"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Chen, Qiguang (2013) : Miao and Yao language. Beijing: Ethnic Publishing House</p>\n</blockquote>",
@@ -24215,7 +24240,16 @@
                     "scheme": "url"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "name": "Doug Cooper",
+                    "type": "DataCurator"
+                },
+                {
+                    "name": "Doug Cooper",
+                    "type": "Distributor"
+                }
+            ],
             "references": [],
             "communities": [
                 {
@@ -24225,7 +24259,13 @@
                     "identifier": "clics"
                 },
                 {
+                    "identifier": "ecfunded"
+                },
+                {
                     "identifier": "lexibank"
+                },
+                {
+                    "identifier": "zenodo"
                 }
             ],
             "grants": [
@@ -24258,17 +24298,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2020-04-06T11:38:37.959025",
+        "created": "2020-04-06T11:38:37.959025+00:00",
         "id": 3741500,
-        "modified": "2020-04-06T11:40:39.603848",
+        "modified": "2020-04-14T12:30:04.695633+00:00",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/chenhmongmien: Miao and Yao Language",
+        "title": "CLDF dataset derived from Ch\u00e9n's \"Miao and Yao Language\" from 2012",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/76633e8b-136d-4733-89ae-0ce8b21b5d37/lexibank/chenhmongmien-v2.1.0.zip",
+                    "download": "https://zenodo.org/api/files/d23b09b6-7bb9-4bd2-8ff9-d807d45038b2/lexibank/chenhmongmien-v2.1.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/3741500/files/0a302388-7a84-423b-8d98-c308cc9047cb"
                 },
                 "filename": "lexibank/chenhmongmien-v2.1.0.zip",

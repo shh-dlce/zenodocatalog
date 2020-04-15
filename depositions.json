@@ -19,7 +19,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1252764",
             "prereserve_doi": {
@@ -109,7 +109,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "Apache-2.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1283757",
             "prereserve_doi": {
@@ -196,7 +196,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1295535",
             "prereserve_doi": {
@@ -307,7 +307,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1295537",
             "prereserve_doi": {
@@ -410,7 +410,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1295547",
             "prereserve_doi": {
@@ -522,7 +522,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1295557",
             "prereserve_doi": {
@@ -619,7 +619,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1295572",
             "prereserve_doi": {
@@ -726,15 +726,10 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2018-06-22",
-            "title": "lexibank/bantubvd: Bantu Basic Vocabulary Database",
+            "title": "CLDF dataset derived from Greenhill and Gray's \"Bantu Basic Vocabulary Database\" from 2015",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Simon J Greenhill"
+                    "name": "Simon J. Greenhill"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Simon Greenhill and Russell Gray, 2015. Bantu Basic Vocabulary Database</p>\n</blockquote>",
@@ -743,7 +738,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1295833",
             "prereserve_doi": {
@@ -802,11 +797,11 @@
         },
         "created": "2018-06-22T04:50:49.329312",
         "id": 1295833,
-        "modified": "2020-02-13T08:25:24.351701",
+        "modified": "2020-04-15T06:10:23.420993",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "lexibank/bantubvd: Bantu Basic Vocabulary Database",
+        "title": "CLDF dataset derived from Greenhill and Gray's \"Bantu Basic Vocabulary Database\" from 2015",
         "files": [
             {
                 "links": {
@@ -845,7 +840,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "Apache-2.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1296127",
             "prereserve_doi": {
@@ -931,7 +926,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1296284",
             "prereserve_doi": {
@@ -1020,7 +1015,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1296294",
             "prereserve_doi": {
@@ -1095,15 +1090,10 @@
         "metadata": {
             "upload_type": "software",
             "publication_date": "2018-06-25",
-            "title": "lexibank/tryonsolomon: Tryon and Hackman's Solomon Islands Languages: An internal classification",
+            "title": "CLDF dataset derived from Tryon and Hackman's \"Solomon Islands Languages\" from 1983.",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
-                },
-                {
-                    "affiliation": "@shh-dlce",
-                    "name": "Simon J Greenhill"
+                    "name": "Simon J. Greenhill"
                 }
             ],
             "description": "No description provided.",
@@ -1112,7 +1102,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1297463",
             "prereserve_doi": {
@@ -1166,11 +1156,11 @@
         },
         "created": "2018-06-25T13:18:57.461597",
         "id": 1297463,
-        "modified": "2020-02-13T08:30:14.546866",
+        "modified": "2020-04-15T06:09:59.530291",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/tryonsolomon: Tryon and Hackman's Solomon Islands Languages: An internal classification",
+        "title": "CLDF dataset derived from Tryon and Hackman's \"Solomon Islands Languages\" from 1983.",
         "files": [
             {
                 "links": {
@@ -1191,15 +1181,10 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2018-06-25",
-            "title": "lexibank/tryonsolomon: Tryon and Hackman's Solomon Islands Languages: An internal classification",
+            "title": "CLDF dataset derived from Tryon and Hackman's \"Solomon Islands Languages\" from 1983.",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Simon J Greenhill"
+                    "name": "Simon J. Greenhill"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Tryon, D.T. and Hackman, B.D. 1983. Solomon Islands Languages: An internal classification. Canberra: Pacific Linguistics.</p>\n</blockquote>",
@@ -1208,7 +1193,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1297464",
             "prereserve_doi": {
@@ -1267,11 +1252,11 @@
         },
         "created": "2018-06-25T13:19:07.441608",
         "id": 1297464,
-        "modified": "2020-02-13T08:30:16.285181",
+        "modified": "2020-04-15T06:09:59.998710",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "lexibank/tryonsolomon: Tryon and Hackman's Solomon Islands Languages: An internal classification",
+        "title": "CLDF dataset derived from Tryon and Hackman's \"Solomon Islands Languages\" from 1983.",
         "files": [
             {
                 "links": {
@@ -1313,7 +1298,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1299094",
             "prereserve_doi": {
@@ -1398,7 +1383,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1299513",
             "prereserve_doi": {
@@ -1477,7 +1462,7 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2018-06-28",
-            "title": "CLDF dataset derived from Haspelmath & Tadmor \"WOLD\" (2009)",
+            "title": "CLDF dataset derived from Haspelmath and Tadmor's \"World Loanword Database\" from 2009",
             "creators": [
                 {
                     "name": "Tiago Tresoldi"
@@ -1495,7 +1480,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1299890",
             "prereserve_doi": {
@@ -1514,19 +1499,11 @@
             "contributors": [
                 {
                     "name": "Martin Haspelmath",
-                    "type": "RightsHolder"
-                },
-                {
-                    "name": "Martin Haspelmath",
-                    "type": "Distributor"
+                    "type": "Editor"
                 },
                 {
                     "name": "Uri Tadmor",
-                    "type": "RightsHolder"
-                },
-                {
-                    "name": "Uri Tadmor",
-                    "type": "Distributor"
+                    "type": "Editor"
                 }
             ],
             "references": [],
@@ -1536,9 +1513,6 @@
                 },
                 {
                     "identifier": "lexibank"
-                },
-                {
-                    "identifier": "zenodo"
                 }
             ],
             "grants": [],
@@ -1567,17 +1541,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-06-28T17:27:04.582373+00:00",
+        "created": "2018-06-28T17:27:04.582373",
         "id": 1299890,
-        "modified": "2020-04-14T12:58:47.139745+00:00",
+        "modified": "2020-04-15T06:10:07.903717",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "CLDF dataset derived from Haspelmath & Tadmor \"WOLD\" (2009)",
+        "title": "CLDF dataset derived from Haspelmath and Tadmor's \"World Loanword Database\" from 2009",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/10865e02-cd73-442c-939b-7ceed62cd8d2/lexibank/wold-v1.0.zip",
+                    "download": "https://zenodo.org/api/files/642c58d3-3727-438b-b5b5-95bc02bb6cd7/lexibank/wold-v1.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1299890/files/afc5389e-2266-4cb8-8135-ffbe7a9662de"
                 },
                 "filename": "lexibank/wold-v1.0.zip",
@@ -1594,7 +1568,7 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2018-07-16",
-            "title": "CLDF dataset derived from Haspelmath & Tadmor \"WOLD\" (2009)",
+            "title": "CLDF dataset derived from Haspelmath and Tadmor's \"World Loanword Database\" from 2009",
             "creators": [
                 {
                     "name": "Tiago Tresoldi"
@@ -1612,7 +1586,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1312692",
             "prereserve_doi": {
@@ -1633,19 +1607,11 @@
             "contributors": [
                 {
                     "name": "Martin Haspelmath",
-                    "type": "RightsHolder"
-                },
-                {
-                    "name": "Martin Haspelmath",
-                    "type": "Distributor"
+                    "type": "Editor"
                 },
                 {
                     "name": "Uri Tadmor",
-                    "type": "RightsHolder"
-                },
-                {
-                    "name": "Uri Tadmor",
-                    "type": "Distributor"
+                    "type": "Editor"
                 }
             ],
             "references": [],
@@ -1655,9 +1621,6 @@
                 },
                 {
                     "identifier": "lexibank"
-                },
-                {
-                    "identifier": "zenodo"
                 }
             ],
             "grants": [],
@@ -1686,17 +1649,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-07-16T06:33:32.131716+00:00",
+        "created": "2018-07-16T06:33:32.131716",
         "id": 1312692,
-        "modified": "2020-04-14T12:58:55.617972+00:00",
+        "modified": "2020-04-15T06:10:08.304188",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "CLDF dataset derived from Haspelmath & Tadmor \"WOLD\" (2009)",
+        "title": "CLDF dataset derived from Haspelmath and Tadmor's \"World Loanword Database\" from 2009",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/a5a86ae3-a92f-4fae-aeb1-bbfdbdc1b723/lexibank/wold-v1.1.zip",
+                    "download": "https://zenodo.org/api/files/d42fb20e-04c8-4cc7-9d46-24c507d09e35/lexibank/wold-v1.1.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1312692/files/e42a67cc-ede9-45ed-b810-c3d888388bf2"
                 },
                 "filename": "lexibank/wold-v1.1.zip",
@@ -1726,7 +1689,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1312741",
             "prereserve_doi": {
@@ -1826,7 +1789,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1312828",
             "prereserve_doi": {
@@ -1910,11 +1873,16 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2018-07-16",
-            "title": "lexibank/zgraggenmadang: Z'graggen Madang",
+            "title": "CLDF dataset derived from Z'graggen's \"Madang Comparative Wordlists\" from 1980.",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Tiago Tresoldi"
+                },
+                {
+                    "name": "Mattis List"
+                },
+                {
+                    "name": "Simon J. Greenhill"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Z&#39;graggen, J A. (1980) A comparative word list of the Northern Adelbert Range Languages, Madang Province, Papua New Guinea. Canberra: Pacific Linguistics. and others from the same author.</p>\n</blockquote>",
@@ -1923,7 +1891,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1312832",
             "prereserve_doi": {
@@ -1979,11 +1947,11 @@
         },
         "created": "2018-07-16T12:01:55.835783",
         "id": 1312832,
-        "modified": "2020-02-13T08:29:47.608481",
+        "modified": "2020-04-15T06:10:15.875009",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/zgraggenmadang: Z'graggen Madang",
+        "title": "CLDF dataset derived from Z'graggen's \"Madang Comparative Wordlists\" from 1980.",
         "files": [
             {
                 "links": {
@@ -2021,7 +1989,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1312842",
             "prereserve_doi": {
@@ -2129,7 +2097,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1312846",
             "prereserve_doi": {
@@ -2234,7 +2202,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1312847",
             "prereserve_doi": {
@@ -2341,7 +2309,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1312849",
             "prereserve_doi": {
@@ -2438,7 +2406,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1312960",
             "prereserve_doi": {
@@ -2547,7 +2515,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1313461",
             "prereserve_doi": {
@@ -2648,7 +2616,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1313845",
             "prereserve_doi": {
@@ -2733,7 +2701,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1314431",
             "prereserve_doi": {
@@ -2842,7 +2810,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1314686",
             "prereserve_doi": {
@@ -2927,7 +2895,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1315336",
             "prereserve_doi": {
@@ -3014,10 +2982,16 @@
         "metadata": {
             "upload_type": "software",
             "publication_date": "2018-07-20",
-            "title": "Arawakan and Tukanoan contacts in Northwest Amazonia prehistory",
+            "title": "CLDF dataset derived from Chacon's \"Annotated Swadesh Lists for Arawakan Languages\" from 2017",
             "creators": [
                 {
                     "name": "Johann-Mattis List"
+                },
+                {
+                    "name": "Tiago Tresoldi"
+                },
+                {
+                    "name": "Thiago Costa Chacon"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Chacon, Thiago C. (2017): Arawakan and Tukanoan contacts in Northwest Amazonia prehistory. PAPIA 27(2). 237-265.</p>\n</blockquote>",
@@ -3026,7 +3000,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1318064",
             "prereserve_doi": {
@@ -3047,7 +3021,12 @@
                     "scheme": "url"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "name": "Thiago Costa Chacon",
+                    "type": "DataCollector"
+                }
+            ],
             "references": [],
             "communities": [
                 {
@@ -3057,13 +3036,7 @@
                     "identifier": "dighl"
                 },
                 {
-                    "identifier": "ecfunded"
-                },
-                {
                     "identifier": "lexibank"
-                },
-                {
-                    "identifier": "zenodo"
                 }
             ],
             "grants": [
@@ -3096,17 +3069,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-07-20T11:43:32.889194+00:00",
+        "created": "2018-07-20T11:43:32.889194",
         "id": 1318064,
-        "modified": "2020-04-14T14:28:32.701446+00:00",
+        "modified": "2020-04-14T17:51:14.462705",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "Arawakan and Tukanoan contacts in Northwest Amazonia prehistory",
+        "title": "CLDF dataset derived from Chacon's \"Annotated Swadesh Lists for Arawakan Languages\" from 2017",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/8ff0538b-4423-46ba-8e60-98c6f1ea476e/lexibank/chaconarawakan-v1.0.zip",
+                    "download": "https://zenodo.org/api/files/83eeca1d-4587-411f-bdac-18c6c8dae60b/lexibank/chaconarawakan-v1.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1318064/files/74949b0d-15ad-491c-9513-e6b295b5529d"
                 },
                 "filename": "lexibank/chaconarawakan-v1.0.zip",
@@ -3123,7 +3096,7 @@
         "metadata": {
             "upload_type": "software",
             "publication_date": "2018-07-20",
-            "title": "CLDF dataset derived from Chacon's \"Arawakan and Tukanoan contacts in Northwest Amazonia prehistory\" from 2017",
+            "title": "CLDF dataset derived from Chacon's \"Annotated Swadesh Lists for Tukanoan Languages\" from 2017",
             "creators": [
                 {
                     "name": "Johann-Mattis List"
@@ -3144,7 +3117,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1318199",
             "prereserve_doi": {
@@ -3160,7 +3133,12 @@
                     "scheme": "url"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "name": "Thiago Costa Chacon",
+                    "type": "DataCurator"
+                }
+            ],
             "references": [],
             "communities": [
                 {
@@ -3170,13 +3148,7 @@
                     "identifier": "dighl"
                 },
                 {
-                    "identifier": "ecfunded"
-                },
-                {
                     "identifier": "lexibank"
-                },
-                {
-                    "identifier": "zenodo"
                 }
             ],
             "grants": [
@@ -3209,17 +3181,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-07-20T15:01:56.888391+00:00",
+        "created": "2018-07-20T15:01:56.888391",
         "id": 1318199,
-        "modified": "2020-04-14T10:12:15.644337+00:00",
+        "modified": "2020-04-14T17:51:21.634156",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "CLDF dataset derived from Chacon's \"Arawakan and Tukanoan contacts in Northwest Amazonia prehistory\" from 2017",
+        "title": "CLDF dataset derived from Chacon's \"Annotated Swadesh Lists for Tukanoan Languages\" from 2017",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/000ac479-51f5-4891-aeeb-ac45f592a931/lexibank/chaconcolumbian-v1.0.zip",
+                    "download": "https://zenodo.org/api/files/63566542-8661-4008-9d34-8519cd1d905b/lexibank/chaconcolumbian-v1.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1318199/files/81003cb9-7e07-40d5-a33a-ea3921a63294"
                 },
                 "filename": "lexibank/chaconcolumbian-v1.0.zip",
@@ -3236,10 +3208,16 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2018-07-20",
-            "title": "Arawakan and Tukanoan contacts in Northwest Amazonia prehistory",
+            "title": "CLDF dataset derived from Chacon's \"Annotated Swadesh Lists for Arawakan Languages\" from 2017",
             "creators": [
                 {
                     "name": "Johann-Mattis List"
+                },
+                {
+                    "name": "Tiago Tresoldi"
+                },
+                {
+                    "name": "Thiago Costa Chacon"
                 }
             ],
             "description": "<p>Cite the lexibank dataset as:</p>\n\n<p><a href=\"https://doi.org/10.5281/zenodo.1318064\">https://doi.org/10.5281/zenodo.1318064</a></p>\n\n<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Chacon, Thiago C. (2017): Arawakan and Tukanoan contacts in Northwest Amazonia prehistory. PAPIA 27(2). 237-265.</p>\n</blockquote>",
@@ -3248,7 +3226,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1318200",
             "prereserve_doi": {
@@ -3269,7 +3247,12 @@
                     "scheme": "url"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "name": "Thiago Costa Chacon",
+                    "type": "DataCollector"
+                }
+            ],
             "references": [],
             "communities": [
                 {
@@ -3279,13 +3262,7 @@
                     "identifier": "dighl"
                 },
                 {
-                    "identifier": "ecfunded"
-                },
-                {
                     "identifier": "lexibank"
-                },
-                {
-                    "identifier": "zenodo"
                 }
             ],
             "grants": [
@@ -3318,17 +3295,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-07-20T15:03:12.561974+00:00",
+        "created": "2018-07-20T15:03:12.561974",
         "id": 1318200,
-        "modified": "2020-04-14T14:28:41.608669+00:00",
+        "modified": "2020-04-14T17:51:15.785259",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "Arawakan and Tukanoan contacts in Northwest Amazonia prehistory",
+        "title": "CLDF dataset derived from Chacon's \"Annotated Swadesh Lists for Arawakan Languages\" from 2017",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/9fe87d32-74aa-4c52-840f-37e0d70d4931/lexibank/chaconarawakan-v1.0.1.zip",
+                    "download": "https://zenodo.org/api/files/2ae49ab1-517b-47ad-9650-b9e933bf9091/lexibank/chaconarawakan-v1.0.1.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1318200/files/11830276-a2f2-42f9-983a-d7c681fefe6b"
                 },
                 "filename": "lexibank/chaconarawakan-v1.0.1.zip",
@@ -3367,7 +3344,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1321024",
             "prereserve_doi": {
@@ -3450,7 +3427,7 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2018-07-27",
-            "title": "CLDF dataset derived from Chacon's \"Arawakan and Tukanoan contacts in Northwest Amazonia prehistory\" from 2017",
+            "title": "CLDF dataset derived from Chacon's \"Annotated Swadesh Lists for Tukanoan Languages\" from 2017",
             "creators": [
                 {
                     "name": "Johann-Mattis List"
@@ -3471,7 +3448,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1322713",
             "prereserve_doi": {
@@ -3487,7 +3464,12 @@
                     "scheme": "url"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "name": "Thiago Costa Chacon",
+                    "type": "DataCurator"
+                }
+            ],
             "references": [],
             "communities": [
                 {
@@ -3497,13 +3479,7 @@
                     "identifier": "dighl"
                 },
                 {
-                    "identifier": "ecfunded"
-                },
-                {
                     "identifier": "lexibank"
-                },
-                {
-                    "identifier": "zenodo"
                 }
             ],
             "grants": [
@@ -3536,17 +3512,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-07-27T15:02:36.894319+00:00",
+        "created": "2018-07-27T15:02:36.894319",
         "id": 1322713,
-        "modified": "2020-04-14T10:12:24.495364+00:00",
+        "modified": "2020-04-14T17:51:23.152321",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "CLDF dataset derived from Chacon's \"Arawakan and Tukanoan contacts in Northwest Amazonia prehistory\" from 2017",
+        "title": "CLDF dataset derived from Chacon's \"Annotated Swadesh Lists for Tukanoan Languages\" from 2017",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/7587c22e-dcc2-44de-a52c-1d82bc0684a8/lexibank/chaconcolumbian-v1.1.zip",
+                    "download": "https://zenodo.org/api/files/2d128d6d-05e6-4748-9d01-c750029a4e79/lexibank/chaconcolumbian-v1.1.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1322713/files/7bea0873-1bd5-41dc-b195-69e6dc7d99e5"
                 },
                 "filename": "lexibank/chaconcolumbian-v1.1.zip",
@@ -3580,7 +3556,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1324147",
             "prereserve_doi": {
@@ -3682,7 +3658,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "Apache-2.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1324189",
             "prereserve_doi": {
@@ -3771,7 +3747,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1325040",
             "prereserve_doi": {
@@ -3861,7 +3837,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1325934",
             "prereserve_doi": {
@@ -3954,7 +3930,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1340620",
             "prereserve_doi": {
@@ -4058,7 +4034,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1401181",
             "prereserve_doi": {
@@ -4156,7 +4132,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1401291",
             "prereserve_doi": {
@@ -4266,7 +4242,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1401829",
             "prereserve_doi": {
@@ -4355,7 +4331,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "Apache-2.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1405135",
             "prereserve_doi": {
@@ -4453,7 +4429,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "Apache-2.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1405148",
             "prereserve_doi": {
@@ -4569,7 +4545,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1409651",
             "prereserve_doi": {
@@ -4654,7 +4630,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1423056",
             "prereserve_doi": {
@@ -4754,7 +4730,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1436382",
             "prereserve_doi": {
@@ -4892,7 +4868,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1438429",
             "prereserve_doi": {
@@ -5004,7 +4980,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1459402",
             "prereserve_doi": {
@@ -5144,7 +5120,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1462761",
             "prereserve_doi": {
@@ -5273,7 +5249,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-NC-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1466634",
             "prereserve_doi": {
@@ -5358,7 +5334,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1466683",
             "prereserve_doi": {
@@ -5451,7 +5427,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1466717",
             "prereserve_doi": {
@@ -5548,7 +5524,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "GPL-3.0+",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1544172",
             "prereserve_doi": {
@@ -5657,7 +5633,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1563218",
             "prereserve_doi": {
@@ -5683,9 +5659,6 @@
             "communities": [
                 {
                     "identifier": "lexibank"
-                },
-                {
-                    "identifier": "zenodo"
                 }
             ],
             "grants": [],
@@ -5714,9 +5687,9 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-11-27T09:36:58.193453+00:00",
+        "created": "2018-11-27T09:36:58.193453",
         "id": 1563218,
-        "modified": "2020-04-14T14:28:51.085811+00:00",
+        "modified": "2020-04-14T17:57:37.033627",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -5724,7 +5697,7 @@
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/262969a4-1c9e-453f-89c4-43847b76382a/lexibank/chaconbaniwa-v1.0.0.zip",
+                    "download": "https://zenodo.org/api/files/c40de5aa-9a86-48f6-9bca-d4a3c10a2751/lexibank/chaconbaniwa-v1.0.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1563218/files/113c108c-58a3-485c-8968-08d9e74f9965"
                 },
                 "filename": "lexibank/chaconbaniwa-v1.0.0.zip",
@@ -5739,7 +5712,7 @@
     },
     {
         "metadata": {
-            "upload_type": "software",
+            "upload_type": "dataset",
             "publication_date": "2018-11-27",
             "title": "CLDF dataset derived from Chacon et al.'s \"Diversity of Arawakan Languages\" from 2019",
             "creators": [
@@ -5756,13 +5729,13 @@
                     "name": "Thiago Costa Chacon"
                 }
             ],
-            "description": "<p>Data accompanying the paper \"The diversity of Arawakan languages from the upper Rio Negro in recordings from the 1950s\" by Thiago C. Chacon et al.</p>\n<p>Cite the source of the dataset as:</p>\n<blockquote><p>Chacon, T. C.; Gon\u00e7alves, A. G.; and da Silva, L. F (forthcoming): A diversidade lingu\u00edstica Aru\u00e1k no Alto Rio Negro em grava\u00e7\u00f5es da d\u00e9cada de 1950 [The diversity of Arawakan languages from the upper Rio Negro in recordings from the 1950s]</p>\n</blockquote>",
+            "description": "<p>Data accompanying the paper &quot;The diversity of Arawakan languages from the upper Rio Negro in recordings from the 1950s&quot; by Thiago C. Chacon et al.</p>\n\n<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Chacon, T. C.; Gon&ccedil;alves, A. G.; and da Silva, L. F (forthcoming): A diversidade lingu&iacute;stica Aru&aacute;k no Alto Rio Negro em grava&ccedil;&otilde;es da d&eacute;cada de 1950 [The diversity of Arawakan languages from the upper Rio Negro in recordings from the 1950s]</p>\n</blockquote>",
             "access_right": "open",
             "access_right_category": null,
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1564336",
             "prereserve_doi": {
@@ -5791,9 +5764,6 @@
             "communities": [
                 {
                     "identifier": "lexibank"
-                },
-                {
-                    "identifier": "zenodo"
                 }
             ],
             "grants": [],
@@ -5822,9 +5792,9 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-11-27T10:10:22.292479+00:00",
+        "created": "2018-11-27T10:10:22.292479",
         "id": 1564336,
-        "modified": "2020-04-14T14:28:59.106633+00:00",
+        "modified": "2020-04-14T17:57:38.287847",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -5832,7 +5802,7 @@
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/8a406ce8-203f-4113-9676-e5e0eb39e7ae/lexibank/chaconbaniwa-v1.0.1.zip",
+                    "download": "https://zenodo.org/api/files/efb32421-4638-41e2-ba9b-27072c5ef51c/lexibank/chaconbaniwa-v1.0.1.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1564336/files/6d7268ee-9851-481c-8fbc-81ecdb03dd79"
                 },
                 "filename": "lexibank/chaconbaniwa-v1.0.1.zip",
@@ -5878,7 +5848,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1617698",
             "prereserve_doi": {
@@ -5979,7 +5949,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1621279",
             "prereserve_doi": {
@@ -6084,7 +6054,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "GPL-3.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1623511",
             "prereserve_doi": {
@@ -6179,7 +6149,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "Apache-2.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2553234",
             "prereserve_doi": {
@@ -6287,7 +6257,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2554987",
             "prereserve_doi": {
@@ -6372,7 +6342,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2555295",
             "prereserve_doi": {
@@ -6462,7 +6432,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2562767",
             "prereserve_doi": {
@@ -6559,7 +6529,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-3.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2593234",
             "prereserve_doi": {
@@ -6689,7 +6659,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2593277",
             "prereserve_doi": {
@@ -6778,7 +6748,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2620250",
             "prereserve_doi": {
@@ -6877,7 +6847,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2620814",
             "prereserve_doi": {
@@ -6982,7 +6952,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2621172",
             "prereserve_doi": {
@@ -7083,7 +7053,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2630577",
             "prereserve_doi": {
@@ -7181,7 +7151,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2630578",
             "prereserve_doi": {
@@ -7282,7 +7252,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2630583",
             "prereserve_doi": {
@@ -7354,7 +7324,7 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-04-05",
-            "title": "CLDF dataset derived from Haspelmath & Tadmor \"WOLD\" (2009)",
+            "title": "CLDF dataset derived from Haspelmath and Tadmor's \"World Loanword Database\" from 2009",
             "creators": [
                 {
                     "name": "Tiago Tresoldi"
@@ -7372,7 +7342,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2630806",
             "prereserve_doi": {
@@ -7396,19 +7366,11 @@
             "contributors": [
                 {
                     "name": "Martin Haspelmath",
-                    "type": "RightsHolder"
-                },
-                {
-                    "name": "Martin Haspelmath",
-                    "type": "Distributor"
+                    "type": "Editor"
                 },
                 {
                     "name": "Uri Tadmor",
-                    "type": "RightsHolder"
-                },
-                {
-                    "name": "Uri Tadmor",
-                    "type": "Distributor"
+                    "type": "Editor"
                 }
             ],
             "references": [],
@@ -7418,9 +7380,6 @@
                 },
                 {
                     "identifier": "lexibank"
-                },
-                {
-                    "identifier": "zenodo"
                 }
             ],
             "grants": [],
@@ -7449,17 +7408,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-04-05T18:53:00.755436+00:00",
+        "created": "2019-04-05T18:53:00.755436",
         "id": 2630806,
-        "modified": "2020-04-14T12:59:03.945948+00:00",
+        "modified": "2020-04-15T06:10:08.717202",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "CLDF dataset derived from Haspelmath & Tadmor \"WOLD\" (2009)",
+        "title": "CLDF dataset derived from Haspelmath and Tadmor's \"World Loanword Database\" from 2009",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/86070d0e-4cc5-435a-b048-713d91c0100e/lexibank/wold-v2.0.zip",
+                    "download": "https://zenodo.org/api/files/6ebad1b4-8b43-4373-8334-c89b4c28a50a/lexibank/wold-v2.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/2630806/files/0560bbc2-2e9f-48aa-abd6-0bba7bed1003"
                 },
                 "filename": "lexibank/wold-v2.0.zip",
@@ -7489,7 +7448,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2630810",
             "prereserve_doi": {
@@ -7571,23 +7530,16 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-04-05",
-            "title": "lexibank/zgraggenmadang: Z'graggen Madang",
+            "title": "CLDF dataset derived from Z'graggen's \"Madang Comparative Wordlists\" from 1980.",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
-                },
-                {
-                    "affiliation": "Max-Planck-Institut f\u00fcr Menschheitsgeschichte",
                     "name": "Tiago Tresoldi"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
+                    "name": "Mattis List"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Simon J Greenhill"
+                    "name": "Simon J. Greenhill"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Z&#39;graggen, J A. (1980) A comparative word list of the Northern Adelbert Range Languages, Madang Province, Papua New Guinea. Canberra: Pacific Linguistics. and others from the same author.</p>\n</blockquote>",
@@ -7596,7 +7548,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2630811",
             "prereserve_doi": {
@@ -7650,11 +7602,11 @@
         },
         "created": "2019-04-05T19:05:02.164379",
         "id": 2630811,
-        "modified": "2020-02-13T08:29:48.243308",
+        "modified": "2020-04-15T06:10:16.276570",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/zgraggenmadang: Z'graggen Madang",
+        "title": "CLDF dataset derived from Z'graggen's \"Madang Comparative Wordlists\" from 1980.",
         "files": [
             {
                 "links": {
@@ -7688,7 +7640,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2630821",
             "prereserve_doi": {
@@ -7795,7 +7747,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-NC-3.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2630825",
             "prereserve_doi": {
@@ -7891,7 +7843,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2630826",
             "prereserve_doi": {
@@ -7979,15 +7931,10 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-04-05",
-            "title": "lexibank/bantubvd: Bantu Basic Vocabulary Database",
+            "title": "CLDF dataset derived from Greenhill and Gray's \"Bantu Basic Vocabulary Database\" from 2015",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Simon J Greenhill"
+                    "name": "Simon J. Greenhill"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Simon Greenhill and Russell Gray, 2015. Bantu Basic Vocabulary Database</p>\n</blockquote>",
@@ -7996,7 +7943,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2630833",
             "prereserve_doi": {
@@ -8053,11 +8000,11 @@
         },
         "created": "2019-04-05T20:03:31.599214",
         "id": 2630833,
-        "modified": "2020-02-13T08:25:24.892132",
+        "modified": "2020-04-15T06:10:23.864306",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "lexibank/bantubvd: Bantu Basic Vocabulary Database",
+        "title": "CLDF dataset derived from Greenhill and Gray's \"Bantu Basic Vocabulary Database\" from 2015",
         "files": [
             {
                 "links": {
@@ -8103,7 +8050,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2632545",
             "prereserve_doi": {
@@ -8195,7 +8142,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2632551",
             "prereserve_doi": {
@@ -8295,7 +8242,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2632669",
             "prereserve_doi": {
@@ -8391,7 +8338,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2632694",
             "prereserve_doi": {
@@ -8483,7 +8430,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2632725",
             "prereserve_doi": {
@@ -8579,7 +8526,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2633026",
             "prereserve_doi": {
@@ -8679,7 +8626,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2633179",
             "prereserve_doi": {
@@ -8772,7 +8719,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2633696",
             "prereserve_doi": {
@@ -8864,7 +8811,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2633722",
             "prereserve_doi": {
@@ -8964,7 +8911,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2633741",
             "prereserve_doi": {
@@ -9064,7 +9011,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2633762",
             "prereserve_doi": {
@@ -9143,15 +9090,10 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-04-09",
-            "title": "lexibank/tryonsolomon: Tryon and Hackman's Solomon Islands Languages: An internal classification",
+            "title": "CLDF dataset derived from Tryon and Hackman's \"Solomon Islands Languages\" from 1983.",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Simon J Greenhill"
+                    "name": "Simon J. Greenhill"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Tryon, D.T. and Hackman, B.D. 1983. Solomon Islands Languages: An internal classification. Canberra: Pacific Linguistics.</p>\n</blockquote>",
@@ -9160,7 +9102,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2633769",
             "prereserve_doi": {
@@ -9214,11 +9156,11 @@
         },
         "created": "2019-04-09T08:54:39.474941",
         "id": 2633769,
-        "modified": "2020-02-13T08:30:16.550408",
+        "modified": "2020-04-15T06:10:00.396595",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/tryonsolomon: Tryon and Hackman's Solomon Islands Languages: An internal classification",
+        "title": "CLDF dataset derived from Tryon and Hackman's \"Solomon Islands Languages\" from 1983.",
         "files": [
             {
                 "links": {
@@ -9272,7 +9214,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2633838",
             "prereserve_doi": {
@@ -9365,7 +9307,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2633937",
             "prereserve_doi": {
@@ -9461,7 +9403,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2633980",
             "prereserve_doi": {
@@ -9557,7 +9499,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2634029",
             "prereserve_doi": {
@@ -9654,7 +9596,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2634108",
             "prereserve_doi": {
@@ -9689,13 +9631,7 @@
                     "identifier": "clics"
                 },
                 {
-                    "identifier": "ecfunded"
-                },
-                {
                     "identifier": "lexibank"
-                },
-                {
-                    "identifier": "zenodo"
                 }
             ],
             "grants": [],
@@ -9724,9 +9660,9 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-04-09T12:57:43.032599+00:00",
+        "created": "2019-04-09T12:57:43.032599",
         "id": 2634108,
-        "modified": "2020-04-14T12:29:50.463603+00:00",
+        "modified": "2020-04-14T12:30:02.502037",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -9734,7 +9670,7 @@
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/9265a4dc-8942-44ec-8f9f-f037d5250b93/lexibank/chenhmongmien-v1.0.zip",
+                    "download": "https://zenodo.org/api/files/a81c8fc7-3221-4c71-9314-9eea5290e930/lexibank/chenhmongmien-v1.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/2634108/files/d31d3cd5-45e8-4365-a7e9-6913b8003318"
                 },
                 "filename": "lexibank/chenhmongmien-v1.0.zip",
@@ -9772,7 +9708,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2634299",
             "prereserve_doi": {
@@ -9872,7 +9808,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2634316",
             "prereserve_doi": {
@@ -9968,7 +9904,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2634451",
             "prereserve_doi": {
@@ -10073,7 +10009,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2634478",
             "prereserve_doi": {
@@ -10173,7 +10109,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2634731",
             "prereserve_doi": {
@@ -10272,7 +10208,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2634734",
             "prereserve_doi": {
@@ -10370,7 +10306,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2634950",
             "prereserve_doi": {
@@ -10483,7 +10419,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2635592",
             "prereserve_doi": {
@@ -10576,7 +10512,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2637724",
             "prereserve_doi": {
@@ -10673,7 +10609,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-3.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2677911",
             "prereserve_doi": {
@@ -10784,7 +10720,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3066952",
             "prereserve_doi": {
@@ -10881,7 +10817,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3067381",
             "prereserve_doi": {
@@ -10984,7 +10920,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3067649",
             "prereserve_doi": {
@@ -11095,7 +11031,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3077791",
             "prereserve_doi": {
@@ -11191,7 +11127,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3077879",
             "prereserve_doi": {
@@ -11284,7 +11220,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3203943",
             "prereserve_doi": {
@@ -11400,7 +11336,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3237877",
             "prereserve_doi": {
@@ -11497,7 +11433,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3239095",
             "prereserve_doi": {
@@ -11585,7 +11521,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3257580",
             "prereserve_doi": {
@@ -11682,7 +11618,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3257634",
             "prereserve_doi": {
@@ -11788,7 +11724,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3258853",
             "prereserve_doi": {
@@ -11893,7 +11829,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3258859",
             "prereserve_doi": {
@@ -12000,7 +11936,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3260726",
             "prereserve_doi": {
@@ -12109,7 +12045,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3260728",
             "prereserve_doi": {
@@ -12220,7 +12156,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3264867",
             "prereserve_doi": {
@@ -12305,7 +12241,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3264975",
             "prereserve_doi": {
@@ -12404,7 +12340,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3265675",
             "prereserve_doi": {
@@ -12492,15 +12428,10 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-07-02",
-            "title": "lexibank/bantubvd: Bantu Basic Vocabulary Database",
+            "title": "CLDF dataset derived from Greenhill and Gray's \"Bantu Basic Vocabulary Database\" from 2015",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Simon J Greenhill"
+                    "name": "Simon J. Greenhill"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Simon Greenhill and Russell Gray, 2015. Bantu Basic Vocabulary Database</p>\n</blockquote>",
@@ -12509,7 +12440,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3265696",
             "prereserve_doi": {
@@ -12566,11 +12497,11 @@
         },
         "created": "2019-07-02T07:39:42.948302",
         "id": 3265696,
-        "modified": "2020-02-13T08:25:25.268753",
+        "modified": "2020-04-15T06:10:24.283428",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "lexibank/bantubvd: Bantu Basic Vocabulary Database",
+        "title": "CLDF dataset derived from Greenhill and Gray's \"Bantu Basic Vocabulary Database\" from 2015",
         "files": [
             {
                 "links": {
@@ -12604,7 +12535,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3265734",
             "prereserve_doi": {
@@ -12705,7 +12636,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3265822",
             "prereserve_doi": {
@@ -12804,7 +12735,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3265977",
             "prereserve_doi": {
@@ -12902,7 +12833,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3266685",
             "prereserve_doi": {
@@ -12994,7 +12925,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3266709",
             "prereserve_doi": {
@@ -13097,7 +13028,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3266720",
             "prereserve_doi": {
@@ -13196,7 +13127,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3266825",
             "prereserve_doi": {
@@ -13305,7 +13236,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3266836",
             "prereserve_doi": {
@@ -13414,7 +13345,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3266982",
             "prereserve_doi": {
@@ -13496,15 +13427,10 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-07-03",
-            "title": "lexibank/tryonsolomon: Tryon and Hackman's Solomon Islands Languages: An internal classification",
+            "title": "CLDF dataset derived from Tryon and Hackman's \"Solomon Islands Languages\" from 1983.",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Simon J Greenhill"
+                    "name": "Simon J. Greenhill"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Tryon, D.T. and Hackman, B.D. 1983. Solomon Islands Languages: An internal classification. Canberra: Pacific Linguistics.</p>\n</blockquote>",
@@ -13513,7 +13439,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3267005",
             "prereserve_doi": {
@@ -13570,11 +13496,11 @@
         },
         "created": "2019-07-03T11:27:42.535803",
         "id": 3267005,
-        "modified": "2020-02-13T08:30:17.190348",
+        "modified": "2020-04-15T06:10:00.835749",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "lexibank/tryonsolomon: Tryon and Hackman's Solomon Islands Languages: An internal classification",
+        "title": "CLDF dataset derived from Tryon and Hackman's \"Solomon Islands Languages\" from 1983.",
         "files": [
             {
                 "links": {
@@ -13595,7 +13521,7 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-07-03",
-            "title": "CLDF dataset derived from Haspelmath & Tadmor \"WOLD\" (2009)",
+            "title": "CLDF dataset derived from Haspelmath and Tadmor's \"World Loanword Database\" from 2009",
             "creators": [
                 {
                     "name": "Tiago Tresoldi"
@@ -13613,7 +13539,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3267018",
             "prereserve_doi": {
@@ -13632,19 +13558,11 @@
             "contributors": [
                 {
                     "name": "Martin Haspelmath",
-                    "type": "RightsHolder"
-                },
-                {
-                    "name": "Martin Haspelmath",
-                    "type": "Distributor"
+                    "type": "Editor"
                 },
                 {
                     "name": "Uri Tadmor",
-                    "type": "RightsHolder"
-                },
-                {
-                    "name": "Uri Tadmor",
-                    "type": "Distributor"
+                    "type": "Editor"
                 }
             ],
             "references": [],
@@ -13685,17 +13603,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-07-03T11:39:56.032671+00:00",
+        "created": "2019-07-03T11:39:56.032671",
         "id": 3267018,
-        "modified": "2020-04-14T12:59:07.153112+00:00",
+        "modified": "2020-04-15T06:10:09.197347",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "CLDF dataset derived from Haspelmath & Tadmor \"WOLD\" (2009)",
+        "title": "CLDF dataset derived from Haspelmath and Tadmor's \"World Loanword Database\" from 2009",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/8859406b-de1f-4250-8165-0aeb591d30d0/lexibank/wold-v2.0.1.zip",
+                    "download": "https://zenodo.org/api/files/ab7b3508-d5a8-47a1-94e0-5073b46e56a1/lexibank/wold-v2.0.1.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/3267018/files/cc8b0d46-354f-400b-855d-4319dd466648"
                 },
                 "filename": "lexibank/wold-v2.0.1.zip",
@@ -13712,23 +13630,16 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-07-03",
-            "title": "lexibank/zgraggenmadang: Z'graggen Madang",
+            "title": "CLDF dataset derived from Z'graggen's \"Madang Comparative Wordlists\" from 1980.",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
-                },
-                {
-                    "affiliation": "Max-Planck-Institut f\u00fcr Menschheitsgeschichte",
                     "name": "Tiago Tresoldi"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
+                    "name": "Mattis List"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Simon J Greenhill"
+                    "name": "Simon J. Greenhill"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Z&#39;graggen, J A. (1980) A comparative word list of the Northern Adelbert Range Languages, Madang Province, Papua New Guinea. Canberra: Pacific Linguistics. and others from the same author.</p>\n</blockquote>",
@@ -13737,7 +13648,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3267037",
             "prereserve_doi": {
@@ -13794,11 +13705,11 @@
         },
         "created": "2019-07-03T11:49:41.832457",
         "id": 3267037,
-        "modified": "2020-02-13T08:29:48.841859",
+        "modified": "2020-04-15T06:10:16.670728",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "lexibank/zgraggenmadang: Z'graggen Madang",
+        "title": "CLDF dataset derived from Z'graggen's \"Madang Comparative Wordlists\" from 1980.",
         "files": [
             {
                 "links": {
@@ -13844,7 +13755,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3267058",
             "prereserve_doi": {
@@ -13948,7 +13859,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3267095",
             "prereserve_doi": {
@@ -14047,7 +13958,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3268340",
             "prereserve_doi": {
@@ -14144,7 +14055,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3268372",
             "prereserve_doi": {
@@ -14214,9 +14125,9 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-07-04T06:55:57.886921+00:00",
+        "created": "2019-07-04T06:55:57.886921",
         "id": 3268372,
-        "modified": "2020-04-14T12:29:53.567335+00:00",
+        "modified": "2020-04-14T12:30:02.961179",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -14224,7 +14135,7 @@
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/78c3be0e-73eb-43f7-b4b9-134146603efb/lexibank/chenhmongmien-v1.1.zip",
+                    "download": "https://zenodo.org/api/files/a06f7433-85ef-4dfc-81a4-af099cdba4bd/lexibank/chenhmongmien-v1.1.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/3268372/files/3564f8af-d6fb-4dfb-a1f3-e7043145f55c"
                 },
                 "filename": "lexibank/chenhmongmien-v1.1.zip",
@@ -14258,7 +14169,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3268395",
             "prereserve_doi": {
@@ -14361,7 +14272,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3268446",
             "prereserve_doi": {
@@ -14473,7 +14384,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3268497",
             "prereserve_doi": {
@@ -14579,7 +14490,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3268547",
             "prereserve_doi": {
@@ -14678,7 +14589,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3268556",
             "prereserve_doi": {
@@ -14781,7 +14692,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3268562",
             "prereserve_doi": {
@@ -14882,7 +14793,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3268577",
             "prereserve_doi": {
@@ -14981,7 +14892,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3268582",
             "prereserve_doi": {
@@ -15076,7 +14987,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3268589",
             "prereserve_doi": {
@@ -15180,7 +15091,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3338363",
             "prereserve_doi": {
@@ -15279,7 +15190,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3340718",
             "prereserve_doi": {
@@ -15376,7 +15287,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3345805",
             "prereserve_doi": {
@@ -15490,7 +15401,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3351275",
             "prereserve_doi": {
@@ -15587,7 +15498,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3351287",
             "prereserve_doi": {
@@ -15688,7 +15599,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3355430",
             "prereserve_doi": {
@@ -15772,7 +15683,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3403988",
             "prereserve_doi": {
@@ -15882,7 +15793,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "Apache-2.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3437148",
             "prereserve_doi": {
@@ -15978,7 +15889,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3451857",
             "prereserve_doi": {
@@ -16096,7 +16007,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3475912",
             "prereserve_doi": {
@@ -16200,7 +16111,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3482794",
             "prereserve_doi": {
@@ -16296,7 +16207,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3515745",
             "prereserve_doi": {
@@ -16393,7 +16304,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3516955",
             "prereserve_doi": {
@@ -16478,7 +16389,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3518698",
             "prereserve_doi": {
@@ -16579,7 +16490,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3519630",
             "prereserve_doi": {
@@ -16664,7 +16575,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3519634",
             "prereserve_doi": {
@@ -16765,7 +16676,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3529383",
             "prereserve_doi": {
@@ -16870,7 +16781,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3530342",
             "prereserve_doi": {
@@ -16980,7 +16891,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3533555",
             "prereserve_doi": {
@@ -17170,7 +17081,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3534873",
             "prereserve_doi": {
@@ -17272,7 +17183,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3534900",
             "prereserve_doi": {
@@ -17376,7 +17287,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3534903",
             "prereserve_doi": {
@@ -17474,7 +17385,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3534904",
             "prereserve_doi": {
@@ -17582,7 +17493,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3534908",
             "prereserve_doi": {
@@ -17680,7 +17591,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3534931",
             "prereserve_doi": {
@@ -17784,7 +17695,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3534942",
             "prereserve_doi": {
@@ -17890,7 +17801,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3534952",
             "prereserve_doi": {
@@ -17997,7 +17908,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3534953",
             "prereserve_doi": {
@@ -18095,7 +18006,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3534991",
             "prereserve_doi": {
@@ -18203,7 +18114,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3534994",
             "prereserve_doi": {
@@ -18305,7 +18216,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3535000",
             "prereserve_doi": {
@@ -18411,7 +18322,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3535008",
             "prereserve_doi": {
@@ -18523,7 +18434,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3535171",
             "prereserve_doi": {
@@ -18604,15 +18515,10 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-11-11",
-            "title": "lexibank/tryonsolomon: Solomon Islands Languages",
+            "title": "CLDF dataset derived from Tryon and Hackman's \"Solomon Islands Languages\" from 1983.",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Simon J Greenhill"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Simon J. Greenhill"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Tryon, D.T. and Hackman, B.D. 1983. Solomon Islands Languages: An internal classification. Canberra: Pacific Linguistics.</p>\n</blockquote>",
@@ -18621,7 +18527,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3535809",
             "prereserve_doi": {
@@ -18677,11 +18583,11 @@
         },
         "created": "2019-11-11T10:04:02.172277",
         "id": 3535809,
-        "modified": "2020-02-13T08:30:18.232561",
+        "modified": "2020-04-15T06:10:01.987903",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/tryonsolomon: Solomon Islands Languages",
+        "title": "CLDF dataset derived from Tryon and Hackman's \"Solomon Islands Languages\" from 1983.",
         "files": [
             {
                 "links": {
@@ -18702,7 +18608,7 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-11-11",
-            "title": "CLDF dataset derived from Haspelmath & Tadmor \"WOLD\" (2009)",
+            "title": "CLDF dataset derived from Haspelmath and Tadmor's \"World Loanword Database\" from 2009",
             "creators": [
                 {
                     "name": "Tiago Tresoldi"
@@ -18720,7 +18626,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3537579",
             "prereserve_doi": {
@@ -18741,19 +18647,11 @@
             "contributors": [
                 {
                     "name": "Martin Haspelmath",
-                    "type": "RightsHolder"
-                },
-                {
-                    "name": "Martin Haspelmath",
-                    "type": "Distributor"
+                    "type": "Editor"
                 },
                 {
                     "name": "Uri Tadmor",
-                    "type": "RightsHolder"
-                },
-                {
-                    "name": "Uri Tadmor",
-                    "type": "Distributor"
+                    "type": "Editor"
                 }
             ],
             "references": [],
@@ -18763,9 +18661,6 @@
                 },
                 {
                     "identifier": "lexibank"
-                },
-                {
-                    "identifier": "zenodo"
                 }
             ],
             "grants": [],
@@ -18794,17 +18689,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-11-11T11:32:28.589932+00:00",
+        "created": "2019-11-11T11:32:28.589932",
         "id": 3537579,
-        "modified": "2020-04-14T12:59:15.690138+00:00",
+        "modified": "2020-04-15T06:10:10.328769",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "CLDF dataset derived from Haspelmath & Tadmor \"WOLD\" (2009)",
+        "title": "CLDF dataset derived from Haspelmath and Tadmor's \"World Loanword Database\" from 2009",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/b6bd8859-51c3-4d55-82b5-38106431b851/lexibank/wold-v3.0.zip",
+                    "download": "https://zenodo.org/api/files/cf93bcbe-b0e4-47e0-bf69-e130772d8493/lexibank/wold-v3.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/3537579/files/31d725c4-1349-42cc-a0cc-8ac41b69f37d"
                 },
                 "filename": "lexibank/wold-v3.0.zip",
@@ -18821,23 +18716,16 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-11-11",
-            "title": "lexibank/zgraggenmadang: Madang Comparative Wordlists",
+            "title": "CLDF dataset derived from Z'graggen's \"Madang Comparative Wordlists\" from 1980.",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Simon J Greenhill"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
-                },
-                {
-                    "affiliation": "Max-Planck-Institut f\u00fcr Menschheitsgeschichte",
                     "name": "Tiago Tresoldi"
+                },
+                {
+                    "name": "Mattis List"
+                },
+                {
+                    "name": "Simon J. Greenhill"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Z&#39;graggen, J A. (1980) A comparative word list of the Northern Adelbert Range Languages, Madang Province, Papua New Guinea. Canberra: Pacific Linguistics. and others from the same author.</p>\n</blockquote>",
@@ -18846,7 +18734,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3537580",
             "prereserve_doi": {
@@ -18902,11 +18790,11 @@
         },
         "created": "2019-11-11T11:39:20.450816",
         "id": 3537580,
-        "modified": "2020-02-13T08:29:49.913967",
+        "modified": "2020-04-15T06:10:17.817710",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/zgraggenmadang: Madang Comparative Wordlists",
+        "title": "CLDF dataset derived from Z'graggen's \"Madang Comparative Wordlists\" from 1980.",
         "files": [
             {
                 "links": {
@@ -18952,7 +18840,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3537601",
             "prereserve_doi": {
@@ -19058,7 +18946,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3537604",
             "prereserve_doi": {
@@ -19160,7 +19048,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3537607",
             "prereserve_doi": {
@@ -19261,7 +19149,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3537629",
             "prereserve_doi": {
@@ -19362,7 +19250,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3537636",
             "prereserve_doi": {
@@ -19464,7 +19352,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3537639",
             "prereserve_doi": {
@@ -19562,7 +19450,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3537646",
             "prereserve_doi": {
@@ -19660,7 +19548,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3537673",
             "prereserve_doi": {
@@ -19754,7 +19642,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3537682",
             "prereserve_doi": {
@@ -19860,7 +19748,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3537712",
             "prereserve_doi": {
@@ -19936,9 +19824,9 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-11-11T14:02:25.621749+00:00",
+        "created": "2019-11-11T14:02:25.621749",
         "id": 3537712,
-        "modified": "2020-04-14T12:29:56.195923+00:00",
+        "modified": "2020-04-14T12:30:03.373477",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -19946,7 +19834,7 @@
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/869a7126-be5f-47d6-9d3d-79fd61070951/lexibank/chenhmongmien-v2.0.1.zip",
+                    "download": "https://zenodo.org/api/files/149ce8c2-f1cd-4329-991b-9a0d24000977/lexibank/chenhmongmien-v2.0.1.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/3537712/files/4b430e91-2962-4cf7-a4ec-c287923e530c"
                 },
                 "filename": "lexibank/chenhmongmien-v2.0.1.zip",
@@ -19980,7 +19868,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3537725",
             "prereserve_doi": {
@@ -20065,15 +19953,10 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-11-11",
-            "title": "lexibank/bantubvd: Bantu Basic Vocabulary Database",
+            "title": "CLDF dataset derived from Greenhill and Gray's \"Bantu Basic Vocabulary Database\" from 2015",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Simon J Greenhill"
+                    "name": "Simon J. Greenhill"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Simon Greenhill and Russell Gray, 2015. Bantu Basic Vocabulary Database</p>\n</blockquote>",
@@ -20082,7 +19965,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3537754",
             "prereserve_doi": {
@@ -20138,11 +20021,11 @@
         },
         "created": "2019-11-11T14:19:20.411520",
         "id": 3537754,
-        "modified": "2020-02-13T08:25:26.301912",
+        "modified": "2020-04-15T06:10:25.443761",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/bantubvd: Bantu Basic Vocabulary Database",
+        "title": "CLDF dataset derived from Greenhill and Gray's \"Bantu Basic Vocabulary Database\" from 2015",
         "files": [
             {
                 "links": {
@@ -20180,7 +20063,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3537767",
             "prereserve_doi": {
@@ -20286,7 +20169,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3539050",
             "prereserve_doi": {
@@ -20394,7 +20277,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3540750",
             "prereserve_doi": {
@@ -20613,7 +20496,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3549784",
             "prereserve_doi": {
@@ -20706,7 +20589,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3549789",
             "prereserve_doi": {
@@ -20799,7 +20682,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3552559",
             "prereserve_doi": {
@@ -20943,7 +20826,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3554103",
             "prereserve_doi": {
@@ -21045,7 +20928,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3554959",
             "prereserve_doi": {
@@ -21149,7 +21032,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3554966",
             "prereserve_doi": {
@@ -21259,7 +21142,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3555304",
             "prereserve_doi": {
@@ -21364,7 +21247,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3556420",
             "prereserve_doi": {
@@ -21462,7 +21345,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3556518",
             "prereserve_doi": {
@@ -21571,7 +21454,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-3.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3603137",
             "prereserve_doi": {
@@ -21676,7 +21559,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3603749",
             "prereserve_doi": {
@@ -21771,7 +21654,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3603755",
             "prereserve_doi": {
@@ -21871,7 +21754,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3606198",
             "prereserve_doi": {
@@ -21972,7 +21855,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3606403",
             "prereserve_doi": {
@@ -22073,7 +21956,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3607047",
             "prereserve_doi": {
@@ -22174,7 +22057,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3607439",
             "prereserve_doi": {
@@ -22300,7 +22183,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-NC-2.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3608862",
             "prereserve_doi": {
@@ -22418,7 +22301,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "Apache-2.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3609219",
             "prereserve_doi": {
@@ -22506,7 +22389,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3610155",
             "prereserve_doi": {
@@ -22615,7 +22498,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3619090",
             "prereserve_doi": {
@@ -22704,7 +22587,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3626713",
             "prereserve_doi": {
@@ -22793,7 +22676,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3628155",
             "prereserve_doi": {
@@ -22886,7 +22769,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3634436",
             "prereserve_doi": {
@@ -22975,7 +22858,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3660891",
             "prereserve_doi": {
@@ -23076,7 +22959,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3668861",
             "prereserve_doi": {
@@ -23172,7 +23055,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3668865",
             "prereserve_doi": {
@@ -23271,7 +23154,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3669971",
             "prereserve_doi": {
@@ -23360,7 +23243,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3670127",
             "prereserve_doi": {
@@ -23460,7 +23343,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "BSD-2-Clause",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3677401",
             "prereserve_doi": {
@@ -23561,7 +23444,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3687530",
             "prereserve_doi": {
@@ -23760,7 +23643,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3687547",
             "prereserve_doi": {
@@ -23844,7 +23727,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3696844",
             "prereserve_doi": {
@@ -23969,7 +23852,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3706687",
             "prereserve_doi": {
@@ -24071,7 +23954,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3706721",
             "prereserve_doi": {
@@ -24161,7 +24044,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-3.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3712132",
             "prereserve_doi": {
@@ -24270,7 +24153,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3731125",
             "prereserve_doi": {
@@ -24378,7 +24261,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3741500",
             "prereserve_doi": {
@@ -24415,13 +24298,7 @@
                     "identifier": "clics"
                 },
                 {
-                    "identifier": "ecfunded"
-                },
-                {
                     "identifier": "lexibank"
-                },
-                {
-                    "identifier": "zenodo"
                 }
             ],
             "grants": [
@@ -24454,9 +24331,9 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2020-04-06T11:38:37.959025+00:00",
+        "created": "2020-04-06T11:38:37.959025",
         "id": 3741500,
-        "modified": "2020-04-14T12:30:04.695633+00:00",
+        "modified": "2020-04-14T12:30:04.682384",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -24464,7 +24341,7 @@
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/d23b09b6-7bb9-4bd2-8ff9-d807d45038b2/lexibank/chenhmongmien-v2.1.0.zip",
+                    "download": "https://zenodo.org/api/files/76633e8b-136d-4733-89ae-0ce8b21b5d37/lexibank/chenhmongmien-v2.1.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/3741500/files/0a302388-7a84-423b-8d98-c308cc9047cb"
                 },
                 "filename": "lexibank/chenhmongmien-v2.1.0.zip",
@@ -24495,7 +24372,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "Apache-2.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3744587",
             "prereserve_doi": {
@@ -24581,7 +24458,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "Apache-2.0",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3746361",
             "prereserve_doi": {
@@ -24653,14 +24530,18 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2020-04-09",
-            "title": "lexibank/aaleykusunda: New Kusunda data: A list of 250 concepts",
+            "title": "CLDF dataset derived from Aaley and Bodt's \"New Kusunda data: A list of 250 concepts\" from 2020",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Uday Raj Aaley"
+                },
+                {
+                    "name": "Timotheus A. Bodt"
+                },
+                {
                     "name": "Mei-Shin Wu"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Johann-Mattis List"
                 }
             ],
@@ -24670,7 +24551,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-14",
+            "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3746946",
             "prereserve_doi": {
@@ -24686,9 +24567,29 @@
                     "scheme": "url"
                 }
             ],
-            "contributors": [],
+            "contributors": [
+                {
+                    "name": "Uday Raj Aaley",
+                    "type": "RightsHolder"
+                },
+                {
+                    "name": "Uday Raj Aaley",
+                    "type": "Distributor"
+                },
+                {
+                    "name": "Timotheus A. Bodt",
+                    "type": "RightsHolder"
+                },
+                {
+                    "name": "Timotheus A. Bodt",
+                    "type": "Distributor"
+                }
+            ],
             "references": [],
             "communities": [
+                {
+                    "identifier": "calc"
+                },
                 {
                     "identifier": "clics"
                 },
@@ -24724,11 +24625,11 @@
         },
         "created": "2020-04-09T21:51:15.096726",
         "id": 3746946,
-        "modified": "2020-04-09T21:57:47.567694",
+        "modified": "2020-04-14T17:52:07.566240",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/aaleykusunda: New Kusunda data: A list of 250 concepts",
+        "title": "CLDF dataset derived from Aaley and Bodt's \"New Kusunda data: A list of 250 concepts\" from 2020",
         "files": [
             {
                 "links": {

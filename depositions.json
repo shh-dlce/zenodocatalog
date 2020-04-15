@@ -264,9 +264,9 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-06-21T13:36:22.980206+00:00",
+        "created": "2018-06-21T13:36:22.980206",
         "id": 1295535,
-        "modified": "2020-04-15T06:52:49.701202+00:00",
+        "modified": "2020-04-15T06:52:49.701202",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -274,7 +274,7 @@
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/78eff8d0-4287-40e6-81a9-c286cab15e74/lexibank/beidasinitic-v2.0.zip",
+                    "download": "https://zenodo.org/api/files/78750fc9-d44c-468a-8438-7c1506136675/lexibank/beidasinitic-v2.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1295535/files/7e34cb0c-e1b4-4599-964e-4267963959e2"
                 },
                 "filename": "lexibank/beidasinitic-v2.0.zip",
@@ -373,9 +373,9 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-06-21T13:36:56.506833+00:00",
+        "created": "2018-06-21T13:36:56.506833",
         "id": 1295537,
-        "modified": "2020-04-15T06:52:51.746185+00:00",
+        "modified": "2020-04-15T06:52:51.746185",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -383,7 +383,7 @@
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/dd6274b8-810e-4877-a5a5-18fc11dae417/lexibank/allenbai-v1.0.zip",
+                    "download": "https://zenodo.org/api/files/6b877622-f266-4cb0-ae32-0cc21a9c6ba8/lexibank/allenbai-v1.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1295537/files/a95fd480-9c5b-4dbd-a58a-5899340b5645"
                 },
                 "filename": "lexibank/allenbai-v1.0.zip",
@@ -481,9 +481,9 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-06-21T13:42:28.586924+00:00",
+        "created": "2018-06-21T13:42:28.586924",
         "id": 1295547,
-        "modified": "2020-04-15T06:52:53.637143+00:00",
+        "modified": "2020-04-15T06:52:53.637143",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -491,7 +491,7 @@
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/8b23cd88-f31b-484d-b1d6-e71c0e6f243a/lexibank/satterthwaitetb-v1.0.zip",
+                    "download": "https://zenodo.org/api/files/64a751b9-4069-44c6-b503-346346e21c68/lexibank/satterthwaitetb-v1.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1295547/files/dafa135d-fb31-454e-9fa4-11cd37a0462a"
                 },
                 "filename": "lexibank/satterthwaitetb-v1.0.zip",
@@ -592,9 +592,9 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-06-21T13:45:51.697748+00:00",
+        "created": "2018-06-21T13:45:51.697748",
         "id": 1295557,
-        "modified": "2020-04-15T06:53:16.889520+00:00",
+        "modified": "2020-04-15T06:53:16.889520",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -602,7 +602,7 @@
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/da53187c-30c4-4a30-bbd9-6a0d33985320/lexibank/suntb-v1.0.zip",
+                    "download": "https://zenodo.org/api/files/9aab2b23-b50f-4c55-92ba-eb7a27c94fb6/lexibank/suntb-v1.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1295557/files/4afe9fa7-b75c-4765-97ee-7023086ba395"
                 },
                 "filename": "lexibank/suntb-v1.0.zip",
@@ -1332,11 +1332,7 @@
             ],
             "contributors": [],
             "references": [],
-            "communities": [
-                {
-                    "identifier": "zenodo"
-                }
-            ],
+            "communities": [],
             "grants": [],
             "journal_title": "",
             "journal_volume": "",
@@ -1363,9 +1359,9 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-06-27T10:15:04.198272+00:00",
+        "created": "2018-06-27T10:15:04.198272",
         "id": 1299094,
-        "modified": "2020-04-15T06:53:24.658509+00:00",
+        "modified": "2020-04-15T07:16:06.834828",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -1373,7 +1369,7 @@
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/5eb4b76c-7cd1-49db-adf5-6183a7e58896/clics/clics2-v0.1.zip",
+                    "download": "https://zenodo.org/api/files/73ac6b3f-199c-41a6-bcad-fc669aaf609d/clics/clics2-v0.1.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1299094/files/f696b9b4-f4bd-4fd5-a30e-26eb46fcc155"
                 },
                 "filename": "clics/clics2-v0.1.zip",
@@ -1394,7 +1390,8 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Key, Mary Ritchie &amp; Comrie, Bernard (eds.) 2015. The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology.</p>\n</blockquote>",
@@ -1427,6 +1424,9 @@
                 },
                 {
                     "identifier": "lexibank"
+                },
+                {
+                    "identifier": "zenodo"
                 }
             ],
             "grants": [],
@@ -1457,9 +1457,9 @@
         },
         "created": "2018-06-28T07:10:29.786752",
         "id": 1299513,
-        "modified": "2020-04-11T07:06:52.986109",
+        "modified": "2020-04-15T07:13:22.126484",
         "owner": 46881,
-        "state": "done",
+        "state": "inprogress",
         "submitted": true,
         "title": "lexibank/ids: The Intercontinental Dictionary Series",
         "files": [
@@ -1485,13 +1485,14 @@
             "title": "CLDF dataset derived from Haspelmath and Tadmor's \"World Loanword Database\" from 2009",
             "creators": [
                 {
-                    "name": "Tiago Tresoldi"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Tiago Tresoldi",
+                    "orcid": "0000-0002-2863-1467"
                 },
                 {
-                    "name": "Robert Forkel"
-                },
-                {
-                    "name": "Natalia Morozova"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Haspelmath, Martin &amp; Tadmor, Uri (eds.) 2009. World Loanword Database. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at <a href=\"http://wold.clld.org\">http://wold.clld.org</a></p>\n</blockquote>",
@@ -1563,7 +1564,7 @@
         },
         "created": "2018-06-28T17:27:04.582373",
         "id": 1299890,
-        "modified": "2020-04-15T06:10:07.903717",
+        "modified": "2020-04-15T07:13:14.506517",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -1591,13 +1592,14 @@
             "title": "CLDF dataset derived from Haspelmath and Tadmor's \"World Loanword Database\" from 2009",
             "creators": [
                 {
-                    "name": "Tiago Tresoldi"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Tiago Tresoldi",
+                    "orcid": "0000-0002-2863-1467"
                 },
                 {
-                    "name": "Robert Forkel"
-                },
-                {
-                    "name": "Natalia Morozova"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Haspelmath, Martin &amp; Tadmor, Uri (eds.) 2009. World Loanword Database. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at <a href=\"http://wold.clld.org\">http://wold.clld.org</a>)</p>\n</blockquote>",
@@ -1671,7 +1673,7 @@
         },
         "created": "2018-07-16T06:33:32.131716",
         "id": 1312692,
-        "modified": "2020-04-15T06:10:08.304188",
+        "modified": "2020-04-15T07:13:16.953882",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -1700,7 +1702,8 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 }
             ],
             "description": "<p>Cite the lexibank dataset as DOI</p>\n\n<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Key, Mary Ritchie &amp; Comrie, Bernard (eds.) 2015. The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology.</p>\n</blockquote>",
@@ -1763,7 +1766,7 @@
         },
         "created": "2018-07-16T08:22:01.740743",
         "id": 1312741,
-        "modified": "2020-04-11T07:06:53.607025",
+        "modified": "2020-04-15T07:13:25.507651",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -1792,15 +1795,18 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Tiago Tresoldi"
+                    "name": "Tiago Tresoldi",
+                    "orcid": "0000-0002-2863-1467"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Simon J Greenhill"
+                    "name": "Simon J Greenhill",
+                    "orcid": "0000-0001-7832-6156"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Internal Classification of the Alor-Pantar Language Family Using Computational Methods Applied to the Lexicon Robinson, Laura C. and Holton, Gary, Language Dynamics and Change, 2, 123-149 (2012), DOI:<a href=\"https://doi.org/10.1163/22105832-20120201\">https://doi.org/10.1163/22105832-20120201</a></p>\n</blockquote>",
@@ -1868,7 +1874,7 @@
         },
         "created": "2018-07-16T12:00:15.882405",
         "id": 1312828,
-        "modified": "2020-02-13T08:28:28.941129",
+        "modified": "2020-04-15T07:13:28.424925",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -1896,13 +1902,9 @@
             "title": "CLDF dataset derived from Z'graggen's \"Madang Comparative Wordlists\" from 1980.",
             "creators": [
                 {
-                    "name": "Tiago Tresoldi"
-                },
-                {
-                    "name": "Mattis List"
-                },
-                {
-                    "name": "Simon J. Greenhill"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Tiago Tresoldi",
+                    "orcid": "0000-0002-2863-1467"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Z&#39;graggen, J A. (1980) A comparative word list of the Northern Adelbert Range Languages, Madang Province, Papua New Guinea. Canberra: Pacific Linguistics. and others from the same author.</p>\n</blockquote>",
@@ -1967,7 +1969,7 @@
         },
         "created": "2018-07-16T12:01:55.835783",
         "id": 1312832,
-        "modified": "2020-04-15T06:10:15.875009",
+        "modified": "2020-04-15T07:13:35.371227",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -1992,15 +1994,13 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2018-07-16",
-            "title": "lexibank/bowernpny: Computational Phylogenetics and the Internal Structure of Pama-Nyungan: Dataset",
+            "title": "The Internal Structure of Pama-Nyungan",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Tiago Tresoldi"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Tiago Tresoldi"
+                    "name": "Johann-Mattis List"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Bowern, Claire, &amp; Atkinson, Quentin. (2012). Computational Phylogenetics and the Internal Structure of Pama-Nyungan: Dataset [Data set]. Language. <a href=\"http://doi.org/10.1353/lan.2012.0081\">http://doi.org/10.1353/lan.2012.0081</a></p>\n</blockquote>",
@@ -2071,11 +2071,11 @@
         },
         "created": "2018-07-16T12:14:18.277051",
         "id": 1312842,
-        "modified": "2020-02-13T08:26:14.731380",
+        "modified": "2020-04-15T10:01:51.889787",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "lexibank/bowernpny: Computational Phylogenetics and the Internal Structure of Pama-Nyungan: Dataset",
+        "title": "The Internal Structure of Pama-Nyungan",
         "files": [
             {
                 "links": {
@@ -2100,15 +2100,18 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Tiago Tresoldi"
+                    "name": "Tiago Tresoldi",
+                    "orcid": "0000-0002-2863-1467"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Nurse, Derek and G&eacute;rard Philippson (1975/99). The Tanzanian Language Survey.</p>\n</blockquote>",
@@ -2176,7 +2179,7 @@
         },
         "created": "2018-07-16T12:19:36.372785",
         "id": 1312846,
-        "modified": "2020-02-13T08:28:59.710003",
+        "modified": "2020-04-15T07:13:39.744546",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -2205,15 +2208,18 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Tiago Tresoldi"
+                    "name": "Tiago Tresoldi",
+                    "orcid": "0000-0002-2863-1467"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Sun Hongkai et al. 1991. Zangmianyu yuyin he cihui \u300a\u85cf\u7f05\u8bed\u97f3\u548c\u8bcd\u6c47\u300b[Tibeto-Burman phonology and lexicon]. Beijing: Chinese Social Sciences Press. Accessed via STEDT database</p>\n</blockquote>",
@@ -2287,7 +2293,7 @@
         },
         "created": "2018-07-16T12:25:53.751285",
         "id": 1312847,
-        "modified": "2020-02-13T08:26:01.723106",
+        "modified": "2020-04-15T07:13:41.579561",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -2316,11 +2322,13 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Tiago Tresoldi"
+                    "name": "Tiago Tresoldi",
+                    "orcid": "0000-0002-2863-1467"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Dellert, Johannes and J&auml;ger, Gerhard (2017): NorthEuraLex (Version 0.9). T&uuml;bingen: Eberhard-Karls University.</p>\n</blockquote>",
@@ -2388,7 +2396,7 @@
         },
         "created": "2018-07-16T12:30:05.213935",
         "id": 1312849,
-        "modified": "2020-02-13T08:28:40.593689",
+        "modified": "2020-04-15T07:13:43.437991",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -2413,11 +2421,10 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2018-07-16",
-            "title": "lexibank/kraftchadic: Chadic Wordlist",
+            "title": "Chadic Wordlists",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Johann-Mattis List"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Kraft, Charles H. 1981. Chadic Wordlists</p>\n</blockquote>",
@@ -2483,17 +2490,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-07-16T14:05:14.197663",
+        "created": "2018-07-16T14:05:14.197663+00:00",
         "id": 1312960,
-        "modified": "2020-02-13T08:30:25.805313",
+        "modified": "2020-04-15T10:13:19.753409+00:00",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "lexibank/kraftchadic: Chadic Wordlist",
+        "title": "Chadic Wordlists",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/2a6fc9c7-e730-456d-824b-d0685190aaf2/lexibank/kraftchadic-v1.0.zip",
+                    "download": "https://zenodo.org/api/files/1563bfb5-3199-46b5-ab5f-1982303349a2/lexibank/kraftchadic-v1.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1312960/files/2d3fb2f3-f3d4-4427-87ef-bb660e7df333"
                 },
                 "filename": "lexibank/kraftchadic-v1.0.zip",
@@ -2514,19 +2521,18 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
-                },
-                {
-                    "affiliation": "Philipps-Universit\u00e4t Marburg",
-                    "name": "Michael Cysouw"
-                },
-                {
-                    "affiliation": "@shh-dlce",
-                    "name": "Simon J Greenhill"
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Simon J Greenhill",
+                    "orcid": "0000-0001-7832-6156"
+                },
+                {
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 }
             ],
             "description": "<p>List, Johann-Mattis &amp; Cysouw, Michael &amp; Greenhill, Simon &amp; Forkel, Robert (eds.) 2018. Concepticon. A Resource for the Linking of Concept Lists. Jena: Max Planck Institute for the Science of Human History. Available online at <a href=\"http://concepticon.clld.org\">http://concepticon.clld.org</a></p>",
@@ -2586,7 +2592,7 @@
         },
         "created": "2018-07-17T07:15:36.909426",
         "id": 1313461,
-        "modified": "2020-03-11T13:36:35.424403",
+        "modified": "2020-04-15T07:21:04.538233",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -2615,19 +2621,22 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Christoph Rzymski"
                 },
                 {
-                    "affiliation": "@shh-dlce",
-                    "name": "Simon J Greenhill"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Simon J Greenhill",
+                    "orcid": "0000-0001-7832-6156"
                 }
             ],
             "description": "A python package to create and analyze colexification networks from lexical datasets.",
@@ -2683,7 +2692,7 @@
         },
         "created": "2018-07-17T19:49:09.519530",
         "id": 1313845,
-        "modified": "2018-09-05T13:18:49.502640",
+        "modified": "2020-04-15T07:16:07.275200",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -2712,7 +2721,8 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Key, Mary Ritchie &amp; Comrie, Bernard (eds.) 2015. The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology.</p>\n</blockquote>",
@@ -2780,7 +2790,7 @@
         },
         "created": "2018-07-18T14:00:08.704650",
         "id": 1314431,
-        "modified": "2020-04-11T07:06:54.314642",
+        "modified": "2020-04-15T07:14:11.293890",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -2809,19 +2819,22 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Christoph Rzymski"
                 },
                 {
-                    "affiliation": "@shh-dlce",
-                    "name": "Simon J Greenhill"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Simon J Greenhill",
+                    "orcid": "0000-0001-7832-6156"
                 }
             ],
             "description": "A python package to create and analyze colexification networks from lexical datasets.",
@@ -2877,7 +2890,7 @@
         },
         "created": "2018-07-18T15:38:32.711451",
         "id": 1314686,
-        "modified": "2018-09-05T13:18:49.782419",
+        "modified": "2020-04-15T07:16:07.717368",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -2906,7 +2919,8 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 }
             ],
             "description": "<p>No description provided.</p>",
@@ -2948,7 +2962,11 @@
             ],
             "contributors": [],
             "references": [],
-            "communities": [],
+            "communities": [
+                {
+                    "identifier": "clld"
+                }
+            ],
             "grants": [],
             "journal_title": "",
             "journal_volume": "",
@@ -2977,7 +2995,7 @@
         },
         "created": "2018-07-19T06:56:51.068682",
         "id": 1315336,
-        "modified": "2018-07-19T07:01:48.461567",
+        "modified": "2020-04-15T07:14:24.529313",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -3005,13 +3023,14 @@
             "title": "CLDF dataset derived from Chacon's \"Annotated Swadesh Lists for Arawakan Languages\" from 2017",
             "creators": [
                 {
-                    "name": "Johann-Mattis List"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 },
                 {
-                    "name": "Tiago Tresoldi"
-                },
-                {
-                    "name": "Thiago Costa Chacon"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Tiago Tresoldi",
+                    "orcid": "0000-0002-2863-1467"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Chacon, Thiago C. (2017): Arawakan and Tukanoan contacts in Northwest Amazonia prehistory. PAPIA 27(2). 237-265.</p>\n</blockquote>",
@@ -3091,7 +3110,7 @@
         },
         "created": "2018-07-20T11:43:32.889194",
         "id": 1318064,
-        "modified": "2020-04-14T17:51:14.462705",
+        "modified": "2020-04-15T07:14:45.466385",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -3119,15 +3138,17 @@
             "title": "CLDF dataset derived from Chacon's \"Annotated Swadesh Lists for Tukanoan Languages\" from 2017",
             "creators": [
                 {
-                    "name": "Johann-Mattis List"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 },
                 {
-                    "name": "Tiago Tresoldi"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Tiago Tresoldi",
+                    "orcid": "0000-0002-2863-1467"
                 },
                 {
-                    "name": "Thiago Costa Chacon"
-                },
-                {
+                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Christoph Rzymski"
                 }
             ],
@@ -3203,7 +3224,7 @@
         },
         "created": "2018-07-20T15:01:56.888391",
         "id": 1318199,
-        "modified": "2020-04-14T17:51:21.634156",
+        "modified": "2020-04-15T07:14:53.831247",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -3231,13 +3252,14 @@
             "title": "CLDF dataset derived from Chacon's \"Annotated Swadesh Lists for Arawakan Languages\" from 2017",
             "creators": [
                 {
-                    "name": "Johann-Mattis List"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 },
                 {
-                    "name": "Tiago Tresoldi"
-                },
-                {
-                    "name": "Thiago Costa Chacon"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Tiago Tresoldi",
+                    "orcid": "0000-0002-2863-1467"
                 }
             ],
             "description": "<p>Cite the lexibank dataset as:</p>\n\n<p><a href=\"https://doi.org/10.5281/zenodo.1318064\">https://doi.org/10.5281/zenodo.1318064</a></p>\n\n<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Chacon, Thiago C. (2017): Arawakan and Tukanoan contacts in Northwest Amazonia prehistory. PAPIA 27(2). 237-265.</p>\n</blockquote>",
@@ -3317,7 +3339,7 @@
         },
         "created": "2018-07-20T15:03:12.561974",
         "id": 1318200,
-        "modified": "2020-04-14T17:51:15.785259",
+        "modified": "2020-04-15T07:14:46.927494",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -3422,7 +3444,7 @@
         },
         "created": "2018-07-25T12:39:54.723899",
         "id": 1321024,
-        "modified": "2019-11-27T09:31:59.188315",
+        "modified": "2020-04-15T07:15:16.718946",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -3450,15 +3472,17 @@
             "title": "CLDF dataset derived from Chacon's \"Annotated Swadesh Lists for Tukanoan Languages\" from 2017",
             "creators": [
                 {
-                    "name": "Johann-Mattis List"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 },
                 {
-                    "name": "Tiago Tresoldi"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Tiago Tresoldi",
+                    "orcid": "0000-0002-2863-1467"
                 },
                 {
-                    "name": "Thiago Costa Chacon"
-                },
-                {
+                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Christoph Rzymski"
                 }
             ],
@@ -3534,7 +3558,7 @@
         },
         "created": "2018-07-27T15:02:36.894319",
         "id": 1322713,
-        "modified": "2020-04-14T17:51:23.152321",
+        "modified": "2020-04-15T07:14:55.147548",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -3562,12 +3586,9 @@
             "title": "cldf/csvw: CSV on the Web",
             "creators": [
                 {
-                    "affiliation": "University of Leipzig",
-                    "name": "Sebastian Bank"
-                },
-                {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 }
             ],
             "description": "CSV on the web",
@@ -3623,7 +3644,7 @@
         },
         "created": "2018-07-31T10:33:11.270296",
         "id": 1324147,
-        "modified": "2018-08-01T11:03:39.522777",
+        "modified": "2020-04-15T07:15:02.171400",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -3656,20 +3677,13 @@
                     "orcid": "0000-0003-1081-086X"
                 },
                 {
-                    "affiliation": "University of Leipzig",
-                    "name": "Sebastian Bank"
-                },
-                {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Simon J Greenhill"
+                    "name": "Simon J Greenhill",
+                    "orcid": "0000-0001-7832-6156"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Christoph Rzymski"
-                },
-                {
-                    "affiliation": "Leiden University Center for Linguistics",
-                    "name": "Gereon Kaiping"
                 }
             ],
             "description": "<p>python package to read and write CLDF datasets</p>",
@@ -3725,7 +3739,7 @@
         },
         "created": "2018-07-31T12:08:12.615978",
         "id": 1324189,
-        "modified": "2019-07-30T13:40:59.338984",
+        "modified": "2020-04-15T07:15:10.035983",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -3932,16 +3946,9 @@
             "title": "clld/glottolog: Glottolog database 3.3.1",
             "creators": [
                 {
-                    "affiliation": "Uppsala University",
-                    "name": "Harald Hammarstr\u00f6m"
-                },
-                {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Martin Haspelmath"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 }
             ],
             "description": "<p>Hammarstr&ouml;m, Harald &amp; Forkel, Robert &amp; Haspelmath, Martin. 2018. Glottolog 3.3.1. Jena: Max Planck Institute for the Science of Human History. (Available online at <a href=\"http://glottolog.org\">http://glottolog.org</a>)</p>",
@@ -4001,7 +4008,7 @@
         },
         "created": "2018-08-06T13:58:32.173277",
         "id": 1340620,
-        "modified": "2019-11-27T09:31:59.396786",
+        "modified": "2020-04-15T07:15:20.328255",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -4030,22 +4037,12 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
-                },
-                {
-                    "affiliation": "University of Leipzig",
-                    "name": "Sebastian Bank"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Christoph Rzymski"
-                },
-                {
-                    "affiliation": "@mntnr",
-                    "name": "Richard Littauer"
-                },
-                {
-                    "name": "Michael Yoshitaka Erlewine"
                 }
             ],
             "description": "<p>Developed by the <a href=\"http://clld.org\">CLLD project</a> with support from the Department of Linguistic and Cultural Evolution of the <a href=\"https://www.shh.mpg.de\">Max Planck Institute for the Science of Human History</a>.</p>",
@@ -4105,7 +4102,7 @@
         },
         "created": "2018-08-21T12:04:03.566347",
         "id": 1401181,
-        "modified": "2020-01-15T20:30:27.198524",
+        "modified": "2020-04-15T07:15:36.770729",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -4210,7 +4207,7 @@
         },
         "created": "2018-08-21T14:49:23.170220",
         "id": 1401291,
-        "modified": "2019-11-27T09:31:59.618916",
+        "modified": "2020-04-15T07:15:17.226458",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -4238,22 +4235,13 @@
             "title": "clld/glottolog3: Glottolog web application 3.3.2",
             "creators": [
                 {
-                    "affiliation": "University of Leipzig",
-                    "name": "Sebastian Bank"
-                },
-                {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
-                },
-                {
-                    "name": "d97hah"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Christoph Rzymski"
-                },
-                {
-                    "name": "Michael Yoshitaka Erlewine"
                 }
             ],
             "description": "<p>Source code of the web application serving <a href=\"http://glottolog.org\">http://glottolog.org</a>\nTo be used with the Glottolog database 3.3.2.</p>",
@@ -4280,7 +4268,11 @@
             ],
             "contributors": [],
             "references": [],
-            "communities": [],
+            "communities": [
+                {
+                    "identifier": "clld"
+                }
+            ],
             "grants": [],
             "journal_title": "",
             "journal_volume": "",
@@ -4309,7 +4301,7 @@
         },
         "created": "2018-08-22T10:31:15.593174",
         "id": 1401829,
-        "modified": "2019-11-27T15:19:55.225479",
+        "modified": "2020-04-15T07:15:47.948838",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -4338,11 +4330,13 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 }
             ],
             "description": "<p>This is a structural dataset originally published along with a paper by Szeto et al. (2018) on Chinese dialect classification:</p>\n\n<blockquote>\n<p>Szeto, P. Y.; Ansaldo, U. &amp; Matthews, S.Typological variation across Mandarin dialects: An areal perspective with a quantitative approach Linguistic Typology, 2018, 22, 233-275.</p>\n</blockquote>",
@@ -4411,7 +4405,7 @@
         },
         "created": "2018-08-28T19:29:22.147203",
         "id": 1405135,
-        "modified": "2020-02-13T16:10:27.499471",
+        "modified": "2020-04-15T07:15:54.126773",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -4440,7 +4434,8 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 }
             ],
             "description": "<p>Original source of the data:</p>\n\n<blockquote>\n<p>Norman, J. (2003): Chinese dialects. Phonology. In: Thurgood, G. &amp; LaPolla, R.: The Sino-Tibetan Languages. Routledge: London and New York. 72-83.</p>\n</blockquote>",
@@ -4515,7 +4510,7 @@
         },
         "created": "2018-08-28T20:14:39.702524",
         "id": 1405148,
-        "modified": "2020-02-13T16:29:03.662337",
+        "modified": "2020-04-15T07:16:01.517375",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -4544,15 +4539,18 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 },
                 {
-                    "affiliation": "@shh-dlce",
-                    "name": "Simon J Greenhill"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Simon J Greenhill",
+                    "orcid": "0000-0001-7832-6156"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
@@ -4612,7 +4610,7 @@
         },
         "created": "2018-09-05T13:18:47.269145",
         "id": 1409651,
-        "modified": "2018-09-05T13:18:50.315961",
+        "modified": "2020-04-15T07:16:09.418792",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -4641,7 +4639,8 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 }
             ],
             "description": "No description provided.",
@@ -4697,7 +4696,7 @@
         },
         "created": "2018-09-21T06:59:31.773031",
         "id": 1423056,
-        "modified": "2018-10-19T09:17:37.005805",
+        "modified": "2020-04-15T07:16:36.752320",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -4726,22 +4725,12 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
-                },
-                {
-                    "affiliation": "University of Leipzig",
-                    "name": "Sebastian Bank"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Christoph Rzymski"
-                },
-                {
-                    "affiliation": "@mntnr",
-                    "name": "Richard Littauer"
-                },
-                {
-                    "name": "Michael Yoshitaka Erlewine"
                 }
             ],
             "description": "<p>Developed by the CLLD project with support from the Department of Linguistic and Cultural Evolution of the Max Planck Institute for the Science of Human History.</p>",
@@ -4804,7 +4793,7 @@
         },
         "created": "2018-09-27T09:35:16.831364",
         "id": 1436382,
-        "modified": "2020-01-15T20:30:27.458508",
+        "modified": "2020-04-15T07:18:31.900090",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -4833,53 +4822,27 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
-                },
-                {
-                    "affiliation": "University of Zurich",
-                    "name": "Steven Moran"
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 },
                 {
-                    "affiliation": "@shh-dlce",
-                    "name": "Simon J Greenhill"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Simon J Greenhill",
+                    "orcid": "0000-0001-7832-6156"
                 },
                 {
-                    "affiliation": "Max-Planck-Institut f\u00fcr Menschheitsgeschichte",
-                    "name": "Tiago Tresoldi"
-                },
-                {
-                    "affiliation": "University of Marburg",
-                    "name": "Frank Nagel"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Tiago Tresoldi",
+                    "orcid": "0000-0002-2863-1467"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Christoph Rzymski"
-                },
-                {
-                    "affiliation": "Leiden University Center for Linguistics",
-                    "name": "Gereon Kaiping"
-                },
-                {
-                    "name": "jprokic"
-                },
-                {
-                    "affiliation": "University of Leipzig",
-                    "name": "Sebastian Bank"
-                },
-                {
-                    "affiliation": "University of Oslo",
-                    "name": "Taraka Rama"
-                },
-                {
-                    "affiliation": "Philipps-Universit\u00e4t Marburg",
-                    "name": "Michael Cysouw"
-                },
-                {
-                    "name": "Victoria Holland"
                 }
             ],
             "description": "LingPy: Python library for quantitative tasks in historical linguistics",
@@ -4942,7 +4905,7 @@
         },
         "created": "2018-09-28T15:25:38.912217",
         "id": 1438429,
-        "modified": "2019-11-26T15:49:06.132561",
+        "modified": "2020-04-15T07:16:52.324960",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -5345,7 +5308,8 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 }
             ],
             "description": "No description provided.",
@@ -5401,7 +5365,7 @@
         },
         "created": "2018-10-19T09:17:33.114775",
         "id": 1466683,
-        "modified": "2018-10-19T09:17:37.487053",
+        "modified": "2020-04-15T07:16:37.911048",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -5430,15 +5394,12 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Christoph Rzymski"
-                },
-                {
-                    "affiliation": "University of Leipzig",
-                    "name": "Sebastian Bank"
                 }
             ],
             "description": "clld app serving the D-PLACE database",
@@ -5494,7 +5455,7 @@
         },
         "created": "2018-10-19T09:29:19.638189",
         "id": 1466717,
-        "modified": "2018-10-19T09:29:22.383888",
+        "modified": "2020-04-15T07:16:43.642739",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -5523,19 +5484,23 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
-                },
-                {
-                    "affiliation": "@shh-dlce",
-                    "name": "Simon J Greenhill"
-                },
-                {
-                    "affiliation": "Max-Planck-Institut f\u00fcr Menschheitsgeschichte",
-                    "name": "Tiago Tresoldi"
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Simon J Greenhill",
+                    "orcid": "0000-0001-7832-6156"
+                },
+                {
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Tiago Tresoldi",
+                    "orcid": "0000-0002-2863-1467"
+                },
+                {
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 }
             ],
             "description": "<p>A release introducing some new features, and being accompanied by a new documentation that is up to date with the current package.</p>\n\n<p>To be quoted as:</p>\n\n<blockquote>\n<p>List, Johann-Mattis; Greenhill, Simon; Tresoldi, Tiago; and Forkel, Robert (2018): LingPy. A Python library for historical linguistics. Version 2.6.4. URL: <a href=\"http://lingpy.org\">http://lingpy.org</a>, DOI: <a href=\"https://zenodo.org/badge/latestdoi/5137/lingpy/lingpy\">https://zenodo.org/badge/latestdoi/5137/lingpy/lingpy</a>. With contributions by Christoph Rzymski, Gereon Kaiping, Steven Moran, Peter Bouda, Johannes Dellert, Taraka Rama, Frank Nagel. Jena: Max Planck Institute for the Science of Human History.</p>\n</blockquote>",
@@ -5607,7 +5572,7 @@
         },
         "created": "2018-11-26T10:21:02.102239",
         "id": 1544172,
-        "modified": "2019-11-26T15:49:06.417265",
+        "modified": "2020-04-15T07:16:54.491622",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -5635,16 +5600,18 @@
             "title": "CLDF dataset derived from Chacon et al.'s \"Diversity of Arawakan Languages\" from 2019",
             "creators": [
                 {
-                    "name": "Johann-Mattis List"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 },
                 {
-                    "name": "Tiago Tresoldi"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Tiago Tresoldi",
+                    "orcid": "0000-0002-2863-1467"
                 },
                 {
+                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Christoph Rzymski"
-                },
-                {
-                    "name": "Thiago Costa Chacon"
                 }
             ],
             "description": "<p>Data accompanying the paper &quot;The diversity of Arawakan languages from the upper Rio Negro in recordings from the 1950s&quot; by Thiago C. Chacon et al.</p>\n\n<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Chacon, T. C.; Gon&ccedil;alves, A. G.; and da Silva, L. F (forthcoming): A diversidade lingu&iacute;stica Aru&aacute;k no Alto Rio Negro em grava&ccedil;&otilde;es da d&eacute;cada de 1950 [The diversity of Arawakan languages from the upper Rio Negro in recordings from the 1950s]</p>\n</blockquote>",
@@ -5709,7 +5676,7 @@
         },
         "created": "2018-11-27T09:36:58.193453",
         "id": 1563218,
-        "modified": "2020-04-14T17:57:37.033627",
+        "modified": "2020-04-15T07:17:56.355855",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -5737,16 +5704,18 @@
             "title": "CLDF dataset derived from Chacon et al.'s \"Diversity of Arawakan Languages\" from 2019",
             "creators": [
                 {
-                    "name": "Johann-Mattis List"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 },
                 {
-                    "name": "Tiago Tresoldi"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Tiago Tresoldi",
+                    "orcid": "0000-0002-2863-1467"
                 },
                 {
+                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Christoph Rzymski"
-                },
-                {
-                    "name": "Thiago Costa Chacon"
                 }
             ],
             "description": "<p>Data accompanying the paper &quot;The diversity of Arawakan languages from the upper Rio Negro in recordings from the 1950s&quot; by Thiago C. Chacon et al.</p>\n\n<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Chacon, T. C.; Gon&ccedil;alves, A. G.; and da Silva, L. F (forthcoming): A diversidade lingu&iacute;stica Aru&aacute;k no Alto Rio Negro em grava&ccedil;&otilde;es da d&eacute;cada de 1950 [The diversity of Arawakan languages from the upper Rio Negro in recordings from the 1950s]</p>\n</blockquote>",
@@ -5814,7 +5783,7 @@
         },
         "created": "2018-11-27T10:10:22.292479",
         "id": 1564336,
-        "modified": "2020-04-14T17:57:38.287847",
+        "modified": "2020-04-15T07:17:57.854128",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -5843,19 +5812,23 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
-                },
-                {
-                    "affiliation": "Max-Planck-Institut f\u00fcr Menschheitsgeschichte",
-                    "name": "Tiago Tresoldi"
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Tiago Tresoldi",
+                    "orcid": "0000-0002-2863-1467"
                 },
                 {
-                    "affiliation": "@shh-dlce",
-                    "name": "Simon J Greenhill"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
+                },
+                {
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Simon J Greenhill",
+                    "orcid": "0000-0001-7832-6156"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
@@ -5886,7 +5859,11 @@
             ],
             "contributors": [],
             "references": [],
-            "communities": [],
+            "communities": [
+                {
+                    "identifier": "clld"
+                }
+            ],
             "grants": [],
             "journal_title": "",
             "journal_volume": "",
@@ -5915,7 +5892,7 @@
         },
         "created": "2018-11-28T07:52:22.603005",
         "id": 1617698,
-        "modified": "2019-04-09T10:22:52.175378",
+        "modified": "2020-04-15T07:17:21.939881",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -5944,19 +5921,23 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
-                },
-                {
-                    "affiliation": "Max-Planck-Institut f\u00fcr Menschheitsgeschichte",
-                    "name": "Tiago Tresoldi"
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Tiago Tresoldi",
+                    "orcid": "0000-0002-2863-1467"
                 },
                 {
-                    "affiliation": "@shh-dlce",
-                    "name": "Simon J Greenhill"
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
+                },
+                {
+                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Simon J Greenhill",
+                    "orcid": "0000-0001-7832-6156"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
@@ -5987,7 +5968,11 @@
             ],
             "contributors": [],
             "references": [],
-            "communities": [],
+            "communities": [
+                {
+                    "identifier": "clld"
+                }
+            ],
             "grants": [],
             "journal_title": "",
             "journal_volume": "",
@@ -6016,7 +6001,7 @@
         },
         "created": "2018-11-28T09:20:18.930531",
         "id": 1621279,
-        "modified": "2019-04-09T10:22:53.065839",
+        "modified": "2020-04-15T07:17:24.340936",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -6092,7 +6077,11 @@
             ],
             "contributors": [],
             "references": [],
-            "communities": [],
+            "communities": [
+                {
+                    "identifier": "clld"
+                }
+            ],
             "grants": [
                 {
                     "id": "10.13039/501100000780::715618"
@@ -6125,7 +6114,7 @@
         },
         "created": "2018-11-28T10:15:24.667990",
         "id": 1623511,
-        "modified": "2019-04-09T10:22:54.056154",
+        "modified": "2020-04-15T07:17:22.536466",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -6150,7 +6139,7 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-01-30",
-            "title": "Sub-grouping Kho-Bwa based on shared core vocabulary",
+            "title": "Sub-grouping Kho-Bwa",
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
@@ -6189,6 +6178,9 @@
             "references": [],
             "communities": [
                 {
+                    "identifier": "calc"
+                },
+                {
                     "identifier": "lexibank"
                 }
             ],
@@ -6224,11 +6216,11 @@
         },
         "created": "2019-01-30T12:57:17.146607",
         "id": 2553234,
-        "modified": "2019-01-30T13:01:03.116364",
+        "modified": "2020-04-15T10:00:57.109192",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "Sub-grouping Kho-Bwa based on shared core vocabulary",
+        "title": "Sub-grouping Kho-Bwa",
         "files": [
             {
                 "links": {
@@ -6730,7 +6722,7 @@
         },
         "created": "2019-03-14T10:47:40.995843",
         "id": 2593277,
-        "modified": "2020-01-15T20:30:27.681107",
+        "modified": "2020-04-15T07:15:32.571396",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -6920,7 +6912,7 @@
         },
         "created": "2019-04-02T06:14:59.083006",
         "id": 2620814,
-        "modified": "2019-11-27T09:31:59.843068",
+        "modified": "2020-04-15T07:15:17.750393",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -6990,7 +6982,11 @@
             ],
             "contributors": [],
             "references": [],
-            "communities": [],
+            "communities": [
+                {
+                    "identifier": "clld"
+                }
+            ],
             "grants": [],
             "journal_title": "",
             "journal_volume": "",
@@ -7019,7 +7015,7 @@
         },
         "created": "2019-04-02T12:07:22.194969",
         "id": 2621172,
-        "modified": "2019-11-27T15:19:55.430378",
+        "modified": "2020-04-15T07:15:45.341043",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -7129,7 +7125,7 @@
         },
         "created": "2019-04-05T14:52:29.694376",
         "id": 2630577,
-        "modified": "2020-03-11T13:36:36.139836",
+        "modified": "2020-04-15T07:21:05.375825",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -7430,7 +7426,7 @@
         },
         "created": "2019-04-05T18:53:00.755436",
         "id": 2630806,
-        "modified": "2020-04-15T06:10:08.717202",
+        "modified": "2020-04-15T07:13:14.919807",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -7622,7 +7618,7 @@
         },
         "created": "2019-04-05T19:05:02.164379",
         "id": 2630811,
-        "modified": "2020-04-15T06:10:16.276570",
+        "modified": "2020-04-15T07:13:33.372788",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -8412,7 +8408,7 @@
         },
         "created": "2019-04-08T09:15:01.352723",
         "id": 2632694,
-        "modified": "2020-04-11T07:06:54.975087",
+        "modified": "2020-04-15T07:13:23.089006",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -8437,11 +8433,10 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-04-08",
-            "title": "lexibank/kraftchadic: Chadic Wordlist",
+            "title": "Chadic Wordlists",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Johann-Mattis List"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Kraft, Charles H. 1981. Chadic Wordlists</p>\n</blockquote>",
@@ -8504,11 +8499,11 @@
         },
         "created": "2019-04-08T09:47:07.383030",
         "id": 2632725,
-        "modified": "2020-02-13T08:30:26.162014",
+        "modified": "2020-04-15T10:02:00.380683",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/kraftchadic: Chadic Wordlist",
+        "title": "Chadic Wordlists",
         "files": [
             {
                 "links": {
@@ -9252,7 +9247,11 @@
             ],
             "contributors": [],
             "references": [],
-            "communities": [],
+            "communities": [
+                {
+                    "identifier": "clld"
+                }
+            ],
             "grants": [],
             "journal_title": "",
             "journal_volume": "",
@@ -9281,7 +9280,7 @@
         },
         "created": "2019-04-09T10:00:13.663081",
         "id": 2633838,
-        "modified": "2019-04-09T10:22:57.958505",
+        "modified": "2020-04-15T07:17:23.058954",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -9406,15 +9405,13 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-04-09",
-            "title": "lexibank/mitterhoferbena: Bena Dialect Survey",
+            "title": "Bena dialect survey",
             "creators": [
                 {
-                    "affiliation": "Max-Planck-Institut f\u00fcr Menschheitsgeschichte",
-                    "name": "Tiago Tresoldi"
+                    "name": "Johann-Mattis List"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
+                    "name": "Tiago Tresoldi"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Mitterhofer, Bernadette. 2013. Lessons from a dialect survey of Bena: Analyzing wordlists. SIL International.</p>\n</blockquote>",
@@ -9477,11 +9474,11 @@
         },
         "created": "2019-04-09T10:37:59.842024",
         "id": 2633980,
-        "modified": "2020-02-13T08:26:48.472993",
+        "modified": "2020-04-15T10:01:43.609119",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/mitterhoferbena: Bena Dialect Survey",
+        "title": "Bena dialect survey",
         "files": [
             {
                 "links": {
@@ -9707,19 +9704,13 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-04-09",
-            "title": "lexibank/diacl: Diachronic Atlas of Comparative Linguistics",
+            "title": "CLDF dataset derived from Carling's \"Diachronic Atlas of Comparative Linguistics\" from 2017",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Robert Forkel"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Christoph Rzymski"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Simon J Greenhill"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Carling, Gerd (ed.) 2017. Diachronic Atlas of Comparative Linguistics Online. Lund: Lund University. (DOI/URL: <a href=\"https://diacl.ht.lu.se/\">https://diacl.ht.lu.se/</a>. ). Accessed on: 2019-02-07.</p>\n</blockquote>",
@@ -9752,6 +9743,9 @@
                 },
                 {
                     "identifier": "lexibank"
+                },
+                {
+                    "identifier": "zenodo"
                 }
             ],
             "grants": [],
@@ -9780,17 +9774,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-04-09T15:45:10.719415",
+        "created": "2019-04-09T15:45:10.719415+00:00",
         "id": 2634299,
-        "modified": "2020-02-13T08:30:38.352813",
+        "modified": "2020-04-15T10:13:29.651215+00:00",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/diacl: Diachronic Atlas of Comparative Linguistics",
+        "title": "CLDF dataset derived from Carling's \"Diachronic Atlas of Comparative Linguistics\" from 2017",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/c2e1c38f-8f49-49a1-8ccd-b91cc1cc1c31/lexibank/diacl-v1.0.zip",
+                    "download": "https://zenodo.org/api/files/dce0c0f5-85a4-46b0-9f57-264ebd8a66ad/lexibank/diacl-v1.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/2634299/files/d94411b8-382b-439d-89cd-941b59ff4f6c"
                 },
                 "filename": "lexibank/diacl-v1.0.zip",
@@ -10211,15 +10205,13 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-04-10",
-            "title": "lexibank/bowernpny: Computational Phylogenetics and the Internal Structure of Pama-Nyungan: Dataset",
+            "title": "The Internal Structure of Pama-Nyungan",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Tiago Tresoldi"
                 },
                 {
-                    "affiliation": "Max-Planck-Institut f\u00fcr Menschheitsgeschichte",
-                    "name": "Tiago Tresoldi"
+                    "name": "Johann-Mattis List"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Bowern, Claire, &amp; Atkinson, Quentin. (2012). Computational Phylogenetics and the Internal Structure of Pama-Nyungan: Dataset [Data set]. Language. <a href=\"http://doi.org/10.1353/lan.2012.0081\">http://doi.org/10.1353/lan.2012.0081</a></p>\n</blockquote>",
@@ -10288,11 +10280,11 @@
         },
         "created": "2019-04-10T07:14:40.951033",
         "id": 2634734,
-        "modified": "2020-02-13T08:26:15.173625",
+        "modified": "2020-04-15T10:01:52.420412",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "lexibank/bowernpny: Computational Phylogenetics and the Internal Structure of Pama-Nyungan: Dataset",
+        "title": "The Internal Structure of Pama-Nyungan",
         "files": [
             {
                 "links": {
@@ -10490,7 +10482,7 @@
         },
         "created": "2019-04-10T15:33:19.264221",
         "id": 2635592,
-        "modified": "2020-01-15T20:30:27.922798",
+        "modified": "2020-04-15T07:15:33.112215",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -11407,7 +11399,7 @@
         },
         "created": "2019-06-03T19:04:04.108090",
         "id": 3237877,
-        "modified": "2020-01-15T20:30:28.152350",
+        "modified": "2020-04-15T07:15:33.612754",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -11504,7 +11496,7 @@
         },
         "created": "2019-06-05T10:22:57.155136",
         "id": 3239095,
-        "modified": "2020-01-15T20:30:28.384484",
+        "modified": "2020-04-15T07:15:34.123155",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -12019,7 +12011,7 @@
         },
         "created": "2019-06-28T14:44:05.787428",
         "id": 3260726,
-        "modified": "2019-11-27T09:32:00.077594",
+        "modified": "2020-04-15T07:15:18.258788",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -12194,7 +12186,11 @@
             ],
             "contributors": [],
             "references": [],
-            "communities": [],
+            "communities": [
+                {
+                    "identifier": "clld"
+                }
+            ],
             "grants": [],
             "journal_title": "",
             "journal_volume": "",
@@ -12223,7 +12219,7 @@
         },
         "created": "2019-07-01T09:49:18.044792",
         "id": 3264867,
-        "modified": "2019-11-27T15:19:55.645679",
+        "modified": "2020-04-15T07:15:45.891869",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -12713,7 +12709,7 @@
         },
         "created": "2019-07-02T10:14:50.175358",
         "id": 3265822,
-        "modified": "2020-04-11T07:06:55.599314",
+        "modified": "2020-04-15T07:13:23.555858",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -13625,7 +13621,7 @@
         },
         "created": "2019-07-03T11:39:56.032671",
         "id": 3267018,
-        "modified": "2020-04-15T06:10:09.197347",
+        "modified": "2020-04-15T07:13:15.350856",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -13725,7 +13721,7 @@
         },
         "created": "2019-07-03T11:49:41.832457",
         "id": 3267037,
-        "modified": "2020-04-15T06:10:16.670728",
+        "modified": "2020-04-15T07:13:33.806961",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -14172,14 +14168,12 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-07-04",
-            "title": "lexibank/diacl: Diachronic Atlas of Comparative Linguistics",
+            "title": "CLDF dataset derived from Carling's \"Diachronic Atlas of Comparative Linguistics\" from 2017",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Robert Forkel"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Christoph Rzymski"
                 }
             ],
@@ -14244,17 +14238,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-07-04T07:47:17.177225",
+        "created": "2019-07-04T07:47:17.177225+00:00",
         "id": 3268395,
-        "modified": "2020-02-13T08:30:39.422190",
+        "modified": "2020-04-15T10:13:34.082254+00:00",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "lexibank/diacl: Diachronic Atlas of Comparative Linguistics",
+        "title": "CLDF dataset derived from Carling's \"Diachronic Atlas of Comparative Linguistics\" from 2017",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/8e5f5410-ece6-4fe1-9724-48a4bd7545b9/lexibank/diacl-v1.1.zip",
+                    "download": "https://zenodo.org/api/files/a0aded3d-1248-4bb5-8865-274979d52043/lexibank/diacl-v1.1.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/3268395/files/16ad4703-e0b3-4639-b5e3-ad641c79492d"
                 },
                 "filename": "lexibank/diacl-v1.1.zip",
@@ -14592,15 +14586,13 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-07-04",
-            "title": "lexibank/mitterhoferbena: Bena Dialect Survey",
+            "title": "Bena dialect survey",
             "creators": [
                 {
-                    "affiliation": "Max-Planck-Institut f\u00fcr Menschheitsgeschichte",
-                    "name": "Tiago Tresoldi"
+                    "name": "Johann-Mattis List"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
+                    "name": "Tiago Tresoldi"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Mitterhofer, Bernadette. 2013. Lessons from a dialect survey of Bena: Analyzing wordlists. SIL International.</p>\n</blockquote>",
@@ -14666,11 +14658,11 @@
         },
         "created": "2019-07-04T10:22:42.675527",
         "id": 3268556,
-        "modified": "2020-02-13T08:26:48.891897",
+        "modified": "2020-04-15T10:01:44.055860",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "lexibank/mitterhoferbena: Bena Dialect Survey",
+        "title": "Bena dialect survey",
         "files": [
             {
                 "links": {
@@ -15472,7 +15464,7 @@
         },
         "created": "2019-07-25T08:22:05.994666",
         "id": 3351275,
-        "modified": "2020-03-11T13:36:36.489705",
+        "modified": "2020-04-15T07:21:05.786848",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -15666,7 +15658,7 @@
         },
         "created": "2019-07-30T13:40:56.869254",
         "id": 3355430,
-        "modified": "2019-07-30T13:41:00.387973",
+        "modified": "2020-04-15T07:15:08.668220",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -15869,7 +15861,7 @@
         },
         "created": "2019-09-17T19:33:39.270598",
         "id": 3437148,
-        "modified": "2020-01-15T20:30:28.621938",
+        "modified": "2020-04-15T07:15:34.792467",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -16189,7 +16181,7 @@
         },
         "created": "2019-10-11T12:18:12.021431",
         "id": 3482794,
-        "modified": "2019-11-26T15:49:06.692384",
+        "modified": "2020-04-15T07:16:52.745119",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -16857,7 +16849,7 @@
         },
         "created": "2019-11-06T10:11:27.309077",
         "id": 3530342,
-        "modified": "2020-03-11T13:36:36.875274",
+        "modified": "2020-04-15T07:21:06.200601",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -17080,19 +17072,13 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-11-11",
-            "title": "lexibank/diacl: Diachronic Atlas of Comparative Linguistics",
+            "title": "CLDF dataset derived from Carling's \"Diachronic Atlas of Comparative Linguistics\" from 2017",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Robert Forkel"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Christoph Rzymski"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Carling, Gerd (ed.) 2017. Diachronic Atlas of Comparative Linguistics Online. Lund: Lund University. (DOI/URL: <a href=\"https://diacl.ht.lu.se/\">https://diacl.ht.lu.se/</a>. ). Accessed on: 2019-02-07.</p>\n</blockquote>",
@@ -17127,6 +17113,9 @@
                 },
                 {
                     "identifier": "lexibank"
+                },
+                {
+                    "identifier": "zenodo"
                 }
             ],
             "grants": [],
@@ -17155,17 +17144,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-11-11T07:43:40.702654",
+        "created": "2019-11-11T07:43:40.702654+00:00",
         "id": 3534873,
-        "modified": "2020-02-13T08:30:40.496481",
+        "modified": "2020-04-15T10:13:41.793544+00:00",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/diacl: Diachronic Atlas of Comparative Linguistics",
+        "title": "CLDF dataset derived from Carling's \"Diachronic Atlas of Comparative Linguistics\" from 2017",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/f7cf25aa-f23f-48ca-a98c-36a111bd3705/lexibank/diacl-v2.0.zip",
+                    "download": "https://zenodo.org/api/files/78954609-59a7-4149-bccc-22b6c1101a93/lexibank/diacl-v2.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/3534873/files/4153546d-2592-4d0f-aa72-ad14cceb2d74"
                 },
                 "filename": "lexibank/diacl-v2.0.zip",
@@ -17182,18 +17171,12 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-11-11",
-            "title": "lexibank/mitterhoferbena: Bena Dialect Survey",
+            "title": "Bena dialect survey",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Christoph Rzymski"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Johann-Mattis List"
                 },
                 {
-                    "affiliation": "Max-Planck-Institut f\u00fcr Menschheitsgeschichte",
                     "name": "Tiago Tresoldi"
                 }
             ],
@@ -17265,11 +17248,11 @@
         },
         "created": "2019-11-11T08:00:56.954049",
         "id": 3534900,
-        "modified": "2020-02-13T08:26:50.051299",
+        "modified": "2020-04-15T10:01:45.208562",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/mitterhoferbena: Bena Dialect Survey",
+        "title": "Bena dialect survey",
         "files": [
             {
                 "links": {
@@ -17467,7 +17450,7 @@
         },
         "created": "2019-11-11T08:14:26.523394",
         "id": 3534904,
-        "modified": "2020-04-11T07:06:57.297888",
+        "modified": "2020-04-15T07:13:23.966477",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -17800,18 +17783,12 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-11-11",
-            "title": "lexibank/bowernpny: The Internal Structure of Pama-Nyungan",
+            "title": "The Internal Structure of Pama-Nyungan",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
-                },
-                {
-                    "affiliation": "Max-Planck-Institut f\u00fcr Menschheitsgeschichte",
                     "name": "Tiago Tresoldi"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Johann-Mattis List"
                 }
             ],
@@ -17886,11 +17863,11 @@
         },
         "created": "2019-11-11T08:59:45.059194",
         "id": 3534952,
-        "modified": "2020-02-13T08:26:16.236593",
+        "modified": "2020-04-15T10:01:53.634375",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/bowernpny: The Internal Structure of Pama-Nyungan",
+        "title": "The Internal Structure of Pama-Nyungan",
         "files": [
             {
                 "links": {
@@ -17911,15 +17888,10 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-11-11",
-            "title": "lexibank/kraftchadic: Chadic Wordlists",
+            "title": "Chadic Wordlists",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
-                },
-                {
-                    "affiliation": "Max-Planck-Institut f\u00fcr Menschheitsgeschichte",
-                    "name": "Tiago Tresoldi"
+                    "name": "Johann-Mattis List"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Kraft, Charles H. 1981. Chadic Wordlists</p>\n</blockquote>",
@@ -17984,11 +17956,11 @@
         },
         "created": "2019-11-11T09:05:12.552864",
         "id": 3534953,
-        "modified": "2020-02-13T08:30:28.482196",
+        "modified": "2020-04-15T10:02:01.560066",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/kraftchadic: Chadic Wordlists",
+        "title": "Chadic Wordlists",
         "files": [
             {
                 "links": {
@@ -18711,7 +18683,7 @@
         },
         "created": "2019-11-11T11:32:28.589932",
         "id": 3537579,
-        "modified": "2020-04-15T06:10:10.328769",
+        "modified": "2020-04-15T07:13:15.741436",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -18810,7 +18782,7 @@
         },
         "created": "2019-11-11T11:39:20.450816",
         "id": 3537580,
-        "modified": "2020-04-15T06:10:17.817710",
+        "modified": "2020-04-15T07:13:34.175434",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -20762,7 +20734,7 @@
         },
         "created": "2019-11-25T14:42:33.991639",
         "id": 3552559,
-        "modified": "2020-02-13T16:29:04.932607",
+        "modified": "2020-04-15T07:15:59.506190",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -20900,7 +20872,7 @@
         },
         "created": "2019-11-26T15:49:01.173543",
         "id": 3554103,
-        "modified": "2019-11-26T15:49:07.840321",
+        "modified": "2020-04-15T07:16:53.175119",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -21006,7 +20978,7 @@
         },
         "created": "2019-11-27T09:29:24.987875",
         "id": 3554959,
-        "modified": "2019-11-27T09:32:00.925078",
+        "modified": "2020-04-15T07:15:18.980686",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -21180,7 +21152,11 @@
             ],
             "contributors": [],
             "references": [],
-            "communities": [],
+            "communities": [
+                {
+                    "identifier": "clld"
+                }
+            ],
             "grants": [],
             "journal_title": "",
             "journal_volume": "",
@@ -21209,7 +21185,7 @@
         },
         "created": "2019-11-27T15:18:10.979900",
         "id": 3555304,
-        "modified": "2019-11-27T15:19:56.811780",
+        "modified": "2020-04-15T07:15:46.335047",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -21245,16 +21221,14 @@
                     "name": "Christoph Rzymski"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "affiliation": "@shh-dlce",
                     "name": "Simon J Greenhill"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Nathanael E. Schweikhard"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Kristina Pianykh"
+                    "name": "Kristina-Pianykh"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
@@ -21266,7 +21240,7 @@
             "access_right_category": null,
             "publication_type": null,
             "image_type": null,
-            "license": "CC-BY-4.0",
+            "license": "other-open",
             "embargo_date": "2020-04-15",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3556420",
@@ -21280,11 +21254,6 @@
                 {
                     "identifier": "https://github.com/concepticon/concepticon-data/tree/v2.2.1",
                     "relation": "isSupplementTo",
-                    "scheme": "url"
-                },
-                {
-                    "identifier": "https://concepticon.clld.org",
-                    "relation": "isAlternateIdentifier",
                     "scheme": "url"
                 }
             ],
@@ -21323,9 +21292,9 @@
         },
         "created": "2019-11-28T11:30:34.736689",
         "id": 3556420,
-        "modified": "2020-03-11T13:39:31.227277",
+        "modified": "2020-04-15T07:21:07.976323",
         "owner": 46881,
-        "state": "inprogress",
+        "state": "done",
         "submitted": true,
         "title": "concepticon/concepticon-data: CLLD Concepticon 2.2.1",
         "files": [
@@ -22372,7 +22341,7 @@
         },
         "created": "2020-01-15T20:28:29.093235",
         "id": 3609219,
-        "modified": "2020-01-15T20:30:29.616732",
+        "modified": "2020-04-15T07:15:35.292926",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -23928,7 +23897,7 @@
         },
         "created": "2020-03-11T13:30:42.709518",
         "id": 3706687,
-        "modified": "2020-03-11T13:36:38.359578",
+        "modified": "2020-04-15T07:21:06.608134",
         "owner": 46881,
         "state": "done",
         "submitted": true,

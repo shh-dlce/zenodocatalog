@@ -187,7 +187,8 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>B\u011bij\u012bng D&agrave;xu&eacute; \u5317\u4eac\u5927\u5b66 (1964): {H}&agrave;ny\u01d4 f\u0101ngy&aacute;n c&iacute;hu&igrave; \u6c49\u8bed\u65b9\u8a00\u8bcd\u6c47 [Chinese dialect vocabularies]. Beijing: Wenzi Gaige.</p>\n</blockquote>",
@@ -263,9 +264,9 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-06-21T13:36:22.980206",
+        "created": "2018-06-21T13:36:22.980206+00:00",
         "id": 1295535,
-        "modified": "2020-02-13T08:27:38.730870",
+        "modified": "2020-04-15T06:52:49.701202+00:00",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -273,7 +274,7 @@
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/78750fc9-d44c-468a-8438-7c1506136675/lexibank/beidasinitic-v2.0.zip",
+                    "download": "https://zenodo.org/api/files/78eff8d0-4287-40e6-81a9-c286cab15e74/lexibank/beidasinitic-v2.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1295535/files/7e34cb0c-e1b4-4599-964e-4267963959e2"
                 },
                 "filename": "lexibank/beidasinitic-v2.0.zip",
@@ -294,11 +295,13 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Allen, Bryan. 2007. Bai Dialect Survey. SIL International.</p>\n</blockquote>",
@@ -370,9 +373,9 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-06-21T13:36:56.506833",
+        "created": "2018-06-21T13:36:56.506833+00:00",
         "id": 1295537,
-        "modified": "2020-02-13T08:27:48.546520",
+        "modified": "2020-04-15T06:52:51.746185+00:00",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -380,7 +383,7 @@
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/6b877622-f266-4cb0-ae32-0cc21a9c6ba8/lexibank/allenbai-v1.0.zip",
+                    "download": "https://zenodo.org/api/files/dd6274b8-810e-4877-a5a5-18fc11dae417/lexibank/allenbai-v1.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1295537/files/a95fd480-9c5b-4dbd-a58a-5899340b5645"
                 },
                 "filename": "lexibank/allenbai-v1.0.zip",
@@ -401,7 +404,8 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Satterthwaite-Phillips, D. (2011) Phylogenetic inference of the Tibeto-Burman languages or on the usefuseful of lexicostatistics (and &quot;megalo&quot;-comparison) for the subgrouping of Tibeto-Burman. Stanford: Stanford University.</p>\n</blockquote>",
@@ -477,9 +481,9 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-06-21T13:42:28.586924",
+        "created": "2018-06-21T13:42:28.586924+00:00",
         "id": 1295547,
-        "modified": "2020-02-13T08:29:19.258393",
+        "modified": "2020-04-15T06:52:53.637143+00:00",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -487,7 +491,7 @@
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/64a751b9-4069-44c6-b503-346346e21c68/lexibank/satterthwaitetb-v1.0.zip",
+                    "download": "https://zenodo.org/api/files/8b23cd88-f31b-484d-b1d6-e71c0e6f243a/lexibank/satterthwaitetb-v1.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1295547/files/dafa135d-fb31-454e-9fa4-11cd37a0462a"
                 },
                 "filename": "lexibank/satterthwaitetb-v1.0.zip",
@@ -513,7 +517,8 @@
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Tiago Tresoldi"
+                    "name": "Tiago Tresoldi",
+                    "orcid": "0000-0002-2863-1467"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Sun Hongkai et al. 1991. Zangmianyu yuyin he cihui \u300a\u85cf\u7f05\u8bed\u97f3\u548c\u8bcd\u6c47\u300b[Tibeto-Burman phonology and lexicon]. Beijing: Chinese Social Sciences Press. Accessed via STEDT database</p>\n</blockquote>",
@@ -542,10 +547,19 @@
             "references": [],
             "communities": [
                 {
+                    "identifier": "calc"
+                },
+                {
                     "identifier": "clics"
                 },
                 {
+                    "identifier": "ecfunded"
+                },
+                {
                     "identifier": "lexibank"
+                },
+                {
+                    "identifier": "zenodo"
                 }
             ],
             "grants": [
@@ -578,17 +592,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-06-21T13:45:51.697748",
+        "created": "2018-06-21T13:45:51.697748+00:00",
         "id": 1295557,
-        "modified": "2020-02-13T08:26:01.120084",
+        "modified": "2020-04-15T06:53:16.889520+00:00",
         "owner": 46881,
-        "state": "done",
+        "state": "inprogress",
         "submitted": true,
         "title": "lexibank/suntb: Sun's dataset of the 'Tibeto-Burman phonology and lexicon'",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/9aab2b23-b50f-4c55-92ba-eb7a27c94fb6/lexibank/suntb-v1.0.zip",
+                    "download": "https://zenodo.org/api/files/da53187c-30c4-4a30-bbd9-6a0d33985320/lexibank/suntb-v1.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1295557/files/4afe9fa7-b75c-4765-97ee-7023086ba395"
                 },
                 "filename": "lexibank/suntb-v1.0.zip",
@@ -1281,11 +1295,13 @@
             "creators": [
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List"
+                    "name": "Johann-Mattis List",
+                    "orcid": "0000-0003-2133-8919"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Robert Forkel",
+                    "orcid": "0000-0003-1081-086X"
                 },
                 {
                     "affiliation": "Max Planck Institute for the Science of Human History",
@@ -1316,7 +1332,11 @@
             ],
             "contributors": [],
             "references": [],
-            "communities": [],
+            "communities": [
+                {
+                    "identifier": "zenodo"
+                }
+            ],
             "grants": [],
             "journal_title": "",
             "journal_volume": "",
@@ -1343,9 +1363,9 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-06-27T10:15:04.198272",
+        "created": "2018-06-27T10:15:04.198272+00:00",
         "id": 1299094,
-        "modified": "2018-09-05T13:18:49.308676",
+        "modified": "2020-04-15T06:53:24.658509+00:00",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -1353,7 +1373,7 @@
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/73ac6b3f-199c-41a6-bcad-fc669aaf609d/clics/clics2-v0.1.zip",
+                    "download": "https://zenodo.org/api/files/5eb4b76c-7cd1-49db-adf5-6183a7e58896/clics/clics2-v0.1.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1299094/files/f696b9b4-f4bd-4fd5-a30e-26eb46fcc155"
                 },
                 "filename": "clics/clics2-v0.1.zip",

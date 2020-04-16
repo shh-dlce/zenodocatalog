@@ -183,12 +183,10 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2018-06-21",
-            "title": "lexibank/beidasinitic: Beijing University's 'Chinese Dialect Vocabularies'",
+            "title": "CLDF dataset derived from Beijing Daxue's \" Chinese Dialect Vocabularies\" from 1964",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Johann-Mattis List",
-                    "orcid": "0000-0003-2133-8919"
+                    "name": "Johann-Mattis List"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>B\u011bij\u012bng D&agrave;xu&eacute; \u5317\u4eac\u5927\u5b66 (1964): {H}&agrave;ny\u01d4 f\u0101ngy&aacute;n c&iacute;hu&igrave; \u6c49\u8bed\u65b9\u8a00\u8bcd\u6c47 [Chinese dialect vocabularies]. Beijing: Wenzi Gaige.</p>\n</blockquote>",
@@ -197,7 +195,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-15",
+            "embargo_date": "2020-04-16",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1295535",
             "prereserve_doi": {
@@ -264,17 +262,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-06-21T13:36:22.980206",
+        "created": "2018-06-21T13:36:22.980206+00:00",
         "id": 1295535,
-        "modified": "2020-04-15T06:52:49.701202",
+        "modified": "2020-04-16T07:14:47.260115+00:00",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "lexibank/beidasinitic: Beijing University's 'Chinese Dialect Vocabularies'",
+        "title": "CLDF dataset derived from Beijing Daxue's \" Chinese Dialect Vocabularies\" from 1964",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/78750fc9-d44c-468a-8438-7c1506136675/lexibank/beidasinitic-v2.0.zip",
+                    "download": "https://zenodo.org/api/files/78eff8d0-4287-40e6-81a9-c286cab15e74/lexibank/beidasinitic-v2.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1295535/files/7e34cb0c-e1b4-4599-964e-4267963959e2"
                 },
                 "filename": "lexibank/beidasinitic-v2.0.zip",
@@ -2318,17 +2316,16 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2018-07-16",
-            "title": "lexibank/northeuralex: NorthEuraLex",
+            "title": "NorthEuraLex",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel",
-                    "orcid": "0000-0003-1081-086X"
+                    "name": "Johann-Mattis List"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Tiago Tresoldi",
-                    "orcid": "0000-0002-2863-1467"
+                    "name": "Robert Forkel"
+                },
+                {
+                    "name": "Tiago Tresoldi"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Dellert, Johannes and J&auml;ger, Gerhard (2017): NorthEuraLex (Version 0.9). T&uuml;bingen: Eberhard-Karls University.</p>\n</blockquote>",
@@ -2337,7 +2334,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-15",
+            "embargo_date": "2020-04-16",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1312849",
             "prereserve_doi": {
@@ -2394,17 +2391,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2018-07-16T12:30:05.213935",
+        "created": "2018-07-16T12:30:05.213935+00:00",
         "id": 1312849,
-        "modified": "2020-04-15T07:13:43.437991",
+        "modified": "2020-04-16T07:14:55.932165+00:00",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "lexibank/northeuralex: NorthEuraLex",
+        "title": "NorthEuraLex",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/db2c586e-f0e2-41d3-b99e-14524784d57a/lexibank/northeuralex-v1.0.zip",
+                    "download": "https://zenodo.org/api/files/37760d3f-412a-4ef8-a086-55ef6746f8eb/lexibank/northeuralex-v1.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/1312849/files/a65c5aa6-fbed-4827-97ab-33119b3026ce"
                 },
                 "filename": "lexibank/northeuralex-v1.0.zip",
@@ -8245,10 +8242,9 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-04-08",
-            "title": "lexibank/beidasinitic: Beijing University's 'Chinese Dialect Vocabularies'",
+            "title": "CLDF dataset derived from Beijing Daxue's \" Chinese Dialect Vocabularies\" from 1964",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Johann-Mattis List"
                 }
             ],
@@ -8258,7 +8254,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-15",
+            "embargo_date": "2020-04-16",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2632669",
             "prereserve_doi": {
@@ -8278,10 +8274,19 @@
             "references": [],
             "communities": [
                 {
+                    "identifier": "calc"
+                },
+                {
                     "identifier": "clics"
                 },
                 {
+                    "identifier": "ecfunded"
+                },
+                {
                     "identifier": "lexibank"
+                },
+                {
+                    "identifier": "zenodo"
                 }
             ],
             "grants": [
@@ -8314,17 +8319,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-04-08T08:52:13.086309",
+        "created": "2019-04-08T08:52:13.086309+00:00",
         "id": 2632669,
-        "modified": "2020-02-13T08:27:39.267371",
+        "modified": "2020-04-16T07:15:05.831095+00:00",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/beidasinitic: Beijing University's 'Chinese Dialect Vocabularies'",
+        "title": "CLDF dataset derived from Beijing Daxue's \" Chinese Dialect Vocabularies\" from 1964",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/3143a702-5ccc-4916-b62c-a8fd70da44e6/lexibank/beidasinitic-v3.0.zip",
+                    "download": "https://zenodo.org/api/files/a5da22a6-6770-4fc6-9cf4-5dda2188ca04/lexibank/beidasinitic-v3.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/2632669/files/82803062-5305-4211-a65f-71bde48e9c9f"
                 },
                 "filename": "lexibank/beidasinitic-v3.0.zip",
@@ -8524,14 +8529,15 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-04-08",
-            "title": "lexibank/northeuralex: NorthEuraLex",
+            "title": "NorthEuraLex",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Johann-Mattis List"
+                },
+                {
                     "name": "Robert Forkel"
                 },
                 {
-                    "affiliation": "Max-Planck-Institut f\u00fcr Menschheitsgeschichte",
                     "name": "Tiago Tresoldi"
                 }
             ],
@@ -8541,7 +8547,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-15",
+            "embargo_date": "2020-04-16",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2633026",
             "prereserve_doi": {
@@ -8565,6 +8571,9 @@
                 },
                 {
                     "identifier": "lexibank"
+                },
+                {
+                    "identifier": "zenodo"
                 }
             ],
             "grants": [],
@@ -8593,17 +8602,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-04-08T12:56:26.626753",
+        "created": "2019-04-08T12:56:26.626753+00:00",
         "id": 2633026,
-        "modified": "2020-02-13T08:28:40.947764",
+        "modified": "2020-04-16T07:15:15.109937+00:00",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/northeuralex: NorthEuraLex",
+        "title": "NorthEuraLex",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/4d45f583-8e8e-4a9c-aecf-def40fa6cc3e/lexibank/northeuralex-v2.0.zip",
+                    "download": "https://zenodo.org/api/files/7df2ae7a-bfb6-4b46-8158-3e1850919736/lexibank/northeuralex-v2.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/2633026/files/3dd81ccf-72d9-4638-8eb6-9a3a802fe383"
                 },
                 "filename": "lexibank/northeuralex-v2.0.zip",
@@ -9901,15 +9910,10 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-04-09",
-            "title": "lexibank/naganorgyalrongic: rGyalrongic Languages Database",
+            "title": "rGyalrongic Languages Database",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Tiago Tresoldi"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Johann-Mattis List"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Nagano, Yasuhiko and Prins, Marielle (eds.). 2013. rGyalrongic Languages Database. Minpaku.</p>\n</blockquote>",
@@ -9918,7 +9922,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "CC-BY-4.0",
-            "embargo_date": "2020-04-15",
+            "embargo_date": "2020-04-16",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2634451",
             "prereserve_doi": {
@@ -9979,17 +9983,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-04-09T18:51:20.725728",
+        "created": "2019-04-09T18:51:20.725728+00:00",
         "id": 2634451,
-        "modified": "2020-02-13T08:26:57.789855",
+        "modified": "2020-04-16T07:15:20.500701+00:00",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "lexibank/naganorgyalrongic: rGyalrongic Languages Database",
+        "title": "rGyalrongic Languages Database",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/9f8b9c10-7061-4a4e-a859-05daee5f4617/lexibank/naganorgyalrongic-v1.0.zip",
+                    "download": "https://zenodo.org/api/files/83765bbe-5efa-4183-8c81-fafa618a1099/lexibank/naganorgyalrongic-v1.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/2634451/files/070dda09-2881-44dd-a1c1-1e492818a0f3"
                 },
                 "filename": "lexibank/naganorgyalrongic-v1.0.zip",
@@ -10507,15 +10511,10 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-04-12",
-            "title": "lexibank/naganorgyalrongic: rGyalrongic Languages Database",
+            "title": "rGyalrongic Languages Database",
             "creators": [
                 {
-                    "affiliation": "Max-Planck-Institut f\u00fcr Menschheitsgeschichte",
-                    "name": "Tiago Tresoldi"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
+                    "name": "Johann-Mattis List"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Nagano, Yasuhiko and Prins, Marielle (eds.). 2013. rGyalrongic Languages Database. Minpaku.</p>\n</blockquote>",
@@ -10524,7 +10523,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-15",
+            "embargo_date": "2020-04-16",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2637724",
             "prereserve_doi": {
@@ -10544,10 +10543,19 @@
             "references": [],
             "communities": [
                 {
+                    "identifier": "calc"
+                },
+                {
                     "identifier": "clics"
                 },
                 {
+                    "identifier": "ecfunded"
+                },
+                {
                     "identifier": "lexibank"
+                },
+                {
+                    "identifier": "zenodo"
                 }
             ],
             "grants": [],
@@ -10576,17 +10584,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-04-12T08:59:21.339309",
+        "created": "2019-04-12T08:59:21.339309+00:00",
         "id": 2637724,
-        "modified": "2020-02-13T08:26:58.057327",
+        "modified": "2020-04-16T07:15:28.412575+00:00",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/naganorgyalrongic: rGyalrongic Languages Database",
+        "title": "rGyalrongic Languages Database",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/ab7f8495-346e-4c44-88d7-689c45e23c58/lexibank/naganorgyalrongic-v1.1.zip",
+                    "download": "https://zenodo.org/api/files/fce320e7-8cb9-4fa0-9d41-2972b3b58bca/lexibank/naganorgyalrongic-v1.1.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/2637724/files/78bf4a78-caf1-45a4-9702-d9168e7a5641"
                 },
                 "filename": "lexibank/naganorgyalrongic-v1.1.zip",
@@ -12538,10 +12546,9 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-07-02",
-            "title": "lexibank/beidasinitic: Beijing University's 'Chinese Dialect Vocabularies'",
+            "title": "CLDF dataset derived from Beijing Daxue's \" Chinese Dialect Vocabularies\" from 1964",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Johann-Mattis List"
                 }
             ],
@@ -12551,7 +12558,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-15",
+            "embargo_date": "2020-04-16",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3265734",
             "prereserve_doi": {
@@ -12612,17 +12619,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-07-02T08:03:53.235016",
+        "created": "2019-07-02T08:03:53.235016+00:00",
         "id": 3265734,
-        "modified": "2020-02-13T08:27:39.725618",
+        "modified": "2020-04-16T07:15:32.030975+00:00",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "lexibank/beidasinitic: Beijing University's 'Chinese Dialect Vocabularies'",
+        "title": "CLDF dataset derived from Beijing Daxue's \" Chinese Dialect Vocabularies\" from 1964",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/5e694186-bae6-461c-97c2-d71207d6fed8/lexibank/beidasinitic-v3.0.1.zip",
+                    "download": "https://zenodo.org/api/files/d4e28d50-e926-47c5-b5e1-58cbcdf43c1b/lexibank/beidasinitic-v3.0.1.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/3265734/files/4df6c8ae-b916-4ecd-a9af-485ceaa52e93"
                 },
                 "filename": "lexibank/beidasinitic-v3.0.1.zip",
@@ -12836,11 +12843,16 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-07-03",
-            "title": "lexibank/northeuralex: NorthEuraLex",
+            "title": "NorthEuraLex",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Johann-Mattis List"
+                },
+                {
                     "name": "Robert Forkel"
+                },
+                {
+                    "name": "Tiago Tresoldi"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Dellert, Johannes and J&auml;ger, Gerhard (2017): NorthEuraLex (Version 0.9). T&uuml;bingen: Eberhard-Karls University.</p>\n</blockquote>",
@@ -12849,7 +12861,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-15",
+            "embargo_date": "2020-04-16",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3266685",
             "prereserve_doi": {
@@ -12873,6 +12885,9 @@
                 },
                 {
                     "identifier": "lexibank"
+                },
+                {
+                    "identifier": "zenodo"
                 }
             ],
             "grants": [],
@@ -12901,17 +12916,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-07-03T06:29:13.598505",
+        "created": "2019-07-03T06:29:13.598505+00:00",
         "id": 3266685,
-        "modified": "2020-02-13T08:28:41.401879",
+        "modified": "2020-04-16T07:15:40.204059+00:00",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/northeuralex: NorthEuraLex",
+        "title": "NorthEuraLex",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/7886be76-0ba1-4928-8360-aa7ae16cc16b/lexibank/northeuralex-v2.0.1.zip",
+                    "download": "https://zenodo.org/api/files/75e5fd3f-599d-4bfb-9cc3-b26a585d5014/lexibank/northeuralex-v2.0.1.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/3266685/files/94d6a808-87c9-4400-9ee6-05eff5d76922"
                 },
                 "filename": "lexibank/northeuralex-v2.0.1.zip",
@@ -12928,11 +12943,16 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-07-03",
-            "title": "lexibank/northeuralex: NorthEuraLex",
+            "title": "NorthEuraLex",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
+                    "name": "Johann-Mattis List"
+                },
+                {
                     "name": "Robert Forkel"
+                },
+                {
+                    "name": "Tiago Tresoldi"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Dellert, Johannes and J&auml;ger, Gerhard (2017): NorthEuraLex (Version 0.9). T&uuml;bingen: Eberhard-Karls University.</p>\n</blockquote>",
@@ -12941,7 +12961,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-15",
+            "embargo_date": "2020-04-16",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3266709",
             "prereserve_doi": {
@@ -12996,17 +13016,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-07-03T06:39:08.128164",
+        "created": "2019-07-03T06:39:08.128164+00:00",
         "id": 3266709,
-        "modified": "2020-02-13T08:28:42.038140",
+        "modified": "2020-04-16T07:15:43.840084+00:00",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "lexibank/northeuralex: NorthEuraLex",
+        "title": "NorthEuraLex",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/756636c3-9d66-4f3f-bcf1-9ae52f98420a/lexibank/northeuralex-v2.0.2.zip",
+                    "download": "https://zenodo.org/api/files/41856660-1be8-496a-a165-b5f7fcfa4f47/lexibank/northeuralex-v2.0.2.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/3266709/files/f376904d-5398-4003-b070-e95e78edd3ef"
                 },
                 "filename": "lexibank/northeuralex-v2.0.2.zip",
@@ -14683,18 +14703,9 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-07-04",
-            "title": "lexibank/naganorgyalrongic: rGyalrongic Languages Database",
+            "title": "rGyalrongic Languages Database",
             "creators": [
                 {
-                    "affiliation": "Max-Planck-Institut f\u00fcr Menschheitsgeschichte",
-                    "name": "Tiago Tresoldi"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Johann-Mattis List"
                 }
             ],
@@ -14704,7 +14715,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-15",
+            "embargo_date": "2020-04-16",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3268562",
             "prereserve_doi": {
@@ -14765,17 +14776,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-07-04T10:31:50.357622",
+        "created": "2019-07-04T10:31:50.357622+00:00",
         "id": 3268562,
-        "modified": "2020-02-13T08:26:58.553735",
+        "modified": "2020-04-16T07:15:46.294118+00:00",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
-        "title": "lexibank/naganorgyalrongic: rGyalrongic Languages Database",
+        "title": "rGyalrongic Languages Database",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/7325ae52-f7bd-485e-9f3f-ada32a3fee57/lexibank/naganorgyalrongic-v1.1.1.zip",
+                    "download": "https://zenodo.org/api/files/6adcd54d-c0c5-4f1d-a057-6283efba65ec/lexibank/naganorgyalrongic-v1.1.1.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/3268562/files/445dbf04-a2b9-4834-ba50-5717efa0bc55"
                 },
                 "filename": "lexibank/naganorgyalrongic-v1.1.1.zip",
@@ -17685,10 +17696,9 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-11-11",
-            "title": "lexibank/beidasinitic: Chinese Dialect Vocabularies",
+            "title": "CLDF dataset derived from Beijing Daxue's \" Chinese Dialect Vocabularies\" from 1964",
             "creators": [
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Johann-Mattis List"
                 }
             ],
@@ -17698,7 +17708,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-15",
+            "embargo_date": "2020-04-16",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3534942",
             "prereserve_doi": {
@@ -17720,10 +17730,19 @@
             "references": [],
             "communities": [
                 {
+                    "identifier": "calc"
+                },
+                {
                     "identifier": "clics"
                 },
                 {
+                    "identifier": "ecfunded"
+                },
+                {
                     "identifier": "lexibank"
+                },
+                {
+                    "identifier": "zenodo"
                 }
             ],
             "grants": [
@@ -17756,17 +17775,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-11-11T08:48:06.941031",
+        "created": "2019-11-11T08:48:06.941031+00:00",
         "id": 3534942,
-        "modified": "2020-02-13T08:27:41.058278",
+        "modified": "2020-04-16T07:15:53.702185+00:00",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/beidasinitic: Chinese Dialect Vocabularies",
+        "title": "CLDF dataset derived from Beijing Daxue's \" Chinese Dialect Vocabularies\" from 1964",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/538725b6-a169-4280-a585-8caec00a35cb/lexibank/beidasinitic-v4.0.zip",
+                    "download": "https://zenodo.org/api/files/eba67877-246e-4d6b-904b-d93a7866582e/lexibank/beidasinitic-v4.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/3534942/files/f31e30b8-2656-491a-a528-77d94d0e92b3"
                 },
                 "filename": "lexibank/beidasinitic-v4.0.zip",
@@ -17981,15 +18000,16 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-11-11",
-            "title": "lexibank/northeuralex: NorthEuraLex",
+            "title": "NorthEuraLex",
             "creators": [
                 {
-                    "affiliation": "Max-Planck-Institut f\u00fcr Menschheitsgeschichte",
-                    "name": "Tiago Tresoldi"
+                    "name": "Johann-Mattis List"
                 },
                 {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Robert Forkel"
+                },
+                {
+                    "name": "Tiago Tresoldi"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Dellert, Johannes and J&auml;ger, Gerhard (2017): NorthEuraLex (Version 0.9). T&uuml;bingen: Eberhard-Karls University.</p>\n</blockquote>",
@@ -17998,7 +18018,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-15",
+            "embargo_date": "2020-04-16",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3534991",
             "prereserve_doi": {
@@ -18030,6 +18050,9 @@
                 },
                 {
                     "identifier": "lexibank"
+                },
+                {
+                    "identifier": "zenodo"
                 }
             ],
             "grants": [],
@@ -18058,17 +18081,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-11-11T09:14:02.019824",
+        "created": "2019-11-11T09:14:02.019824+00:00",
         "id": 3534991,
-        "modified": "2020-02-13T08:28:43.169464",
+        "modified": "2020-04-16T07:16:02.179979+00:00",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/northeuralex: NorthEuraLex",
+        "title": "NorthEuraLex",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/9b7d65a1-de83-4d6b-b8fd-e898ee3db694/lexibank/northeuralex-v3.0.zip",
+                    "download": "https://zenodo.org/api/files/7e81e707-bf08-403d-adc4-02d7a3fd77ba/lexibank/northeuralex-v3.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/3534991/files/0bd835d0-3e2e-4500-b06f-6abdcccea155"
                 },
                 "filename": "lexibank/northeuralex-v3.0.zip",
@@ -19323,18 +19346,9 @@
         "metadata": {
             "upload_type": "dataset",
             "publication_date": "2019-11-11",
-            "title": "lexibank/naganorgyalrongic: rGyalrongic Languages Database",
+            "title": "rGyalrongic Languages Database",
             "creators": [
                 {
-                    "affiliation": "Max-Planck-Institut f\u00fcr Menschheitsgeschichte",
-                    "name": "Tiago Tresoldi"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
-                    "name": "Robert Forkel"
-                },
-                {
-                    "affiliation": "Max Planck Institute for the Science of Human History",
                     "name": "Johann-Mattis List"
                 }
             ],
@@ -19344,7 +19358,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-15",
+            "embargo_date": "2020-04-16",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3537639",
             "prereserve_doi": {
@@ -19366,10 +19380,19 @@
             "references": [],
             "communities": [
                 {
+                    "identifier": "calc"
+                },
+                {
                     "identifier": "clics"
                 },
                 {
+                    "identifier": "ecfunded"
+                },
+                {
                     "identifier": "lexibank"
+                },
+                {
+                    "identifier": "zenodo"
                 }
             ],
             "grants": [
@@ -19402,17 +19425,17 @@
             "resource_type": null,
             "alternate_identifiers": null
         },
-        "created": "2019-11-11T12:48:55.661462",
+        "created": "2019-11-11T12:48:55.661462+00:00",
         "id": 3537639,
-        "modified": "2020-02-13T08:27:00.068995",
+        "modified": "2020-04-16T07:16:09.946738+00:00",
         "owner": 46881,
         "state": "done",
         "submitted": true,
-        "title": "lexibank/naganorgyalrongic: rGyalrongic Languages Database",
+        "title": "rGyalrongic Languages Database",
         "files": [
             {
                 "links": {
-                    "download": "https://zenodo.org/api/files/73f99842-8443-4ae4-b925-5b9cb2c03cdf/lexibank/naganorgyalrongic-v2.0.zip",
+                    "download": "https://zenodo.org/api/files/7ea7f995-eef9-42bc-ac6e-66ed3eb4dcfc/lexibank/naganorgyalrongic-v2.0.zip",
                     "self": "https://zenodo.org/api/deposit/depositions/3537639/files/30a085f9-e6a7-4d81-84cc-b6f34e476f5b"
                 },
                 "filename": "lexibank/naganorgyalrongic-v2.0.zip",

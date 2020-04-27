@@ -748,7 +748,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-22",
+            "embargo_date": "2020-04-27",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1295833",
             "prereserve_doi": {
@@ -807,7 +807,7 @@
         },
         "created": "2018-06-22T04:50:49.329312+00:00",
         "id": 1295833,
-        "modified": "2020-04-22T08:30:48.145207+00:00",
+        "modified": "2020-04-27T13:52:28.265954+00:00",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -2321,13 +2321,13 @@
             "title": "CLDF dataset derived from Dellert et al.'s \"NorthEuraLex (Version 0.9)\" from 2020",
             "creators": [
                 {
+                    "name": "Tiago Tresoldi"
+                },
+                {
                     "name": "Johann-Mattis List"
                 },
                 {
                     "name": "Robert Forkel"
-                },
-                {
-                    "name": "Tiago Tresoldi"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Dellert, Johannes and J&auml;ger, Gerhard (2017): NorthEuraLex (Version 0.9). T&uuml;bingen: Eberhard-Karls University.</p>\n</blockquote>",
@@ -2336,7 +2336,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-22",
+            "embargo_date": "2020-04-27",
             "access_conditions": null,
             "doi": "10.5281/zenodo.1312849",
             "prereserve_doi": {
@@ -2357,7 +2357,19 @@
             "contributors": [
                 {
                     "name": "Johannes Dellert",
-                    "type": "Editor"
+                    "type": "DataCurator"
+                },
+                {
+                    "name": "Johannes Dellert",
+                    "type": "DataManager"
+                },
+                {
+                    "name": "Pavel Sofroniev",
+                    "type": "DataCurator"
+                },
+                {
+                    "name": "Pavel Sofroniev",
+                    "type": "DataManager"
                 }
             ],
             "references": [],
@@ -2400,7 +2412,7 @@
         },
         "created": "2018-07-16T12:30:05.213935+00:00",
         "id": 1312849,
-        "modified": "2020-04-22T08:32:04.516870+00:00",
+        "modified": "2020-04-27T13:52:41.770344+00:00",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -7990,7 +8002,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-22",
+            "embargo_date": "2020-04-27",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2630833",
             "prereserve_doi": {
@@ -8047,7 +8059,7 @@
         },
         "created": "2019-04-05T20:03:31.599214+00:00",
         "id": 2630833,
-        "modified": "2020-04-22T08:33:47.000189+00:00",
+        "modified": "2020-04-27T13:52:56.780883+00:00",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -8590,13 +8602,13 @@
             "title": "CLDF dataset derived from Dellert et al.'s \"NorthEuraLex (Version 0.9)\" from 2020",
             "creators": [
                 {
+                    "name": "Tiago Tresoldi"
+                },
+                {
                     "name": "Johann-Mattis List"
                 },
                 {
                     "name": "Robert Forkel"
-                },
-                {
-                    "name": "Tiago Tresoldi"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Dellert, Johannes and J&auml;ger, Gerhard (2017): NorthEuraLex (Version 0.9). T&uuml;bingen: Eberhard-Karls University.</p>\n</blockquote>",
@@ -8605,7 +8617,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-22",
+            "embargo_date": "2020-04-27",
             "access_conditions": null,
             "doi": "10.5281/zenodo.2633026",
             "prereserve_doi": {
@@ -8624,7 +8636,19 @@
             "contributors": [
                 {
                     "name": "Johannes Dellert",
-                    "type": "Editor"
+                    "type": "DataCurator"
+                },
+                {
+                    "name": "Johannes Dellert",
+                    "type": "DataManager"
+                },
+                {
+                    "name": "Pavel Sofroniev",
+                    "type": "DataCurator"
+                },
+                {
+                    "name": "Pavel Sofroniev",
+                    "type": "DataManager"
                 }
             ],
             "references": [],
@@ -8667,7 +8691,7 @@
         },
         "created": "2019-04-08T12:56:26.626753+00:00",
         "id": 2633026,
-        "modified": "2020-04-22T08:35:55.125041+00:00",
+        "modified": "2020-04-27T13:53:08.602176+00:00",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -12614,7 +12638,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-22",
+            "embargo_date": "2020-04-27",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3265696",
             "prereserve_doi": {
@@ -12671,9 +12695,9 @@
         },
         "created": "2019-07-02T07:39:42.948302+00:00",
         "id": 3265696,
-        "modified": "2020-04-22T08:39:26.081675+00:00",
+        "modified": "2020-04-27T13:53:32.869270+00:00",
         "owner": 46881,
-        "state": "inprogress",
+        "state": "done",
         "submitted": true,
         "title": "CLDF dataset derived from Greenhill and Gray's \"Bantu Basic Vocabulary Database\" from 2015",
         "files": [
@@ -12990,13 +13014,13 @@
             "title": "CLDF dataset derived from Dellert et al.'s \"NorthEuraLex (Version 0.9)\" from 2020",
             "creators": [
                 {
+                    "name": "Tiago Tresoldi"
+                },
+                {
                     "name": "Johann-Mattis List"
                 },
                 {
                     "name": "Robert Forkel"
-                },
-                {
-                    "name": "Tiago Tresoldi"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Dellert, Johannes and J&auml;ger, Gerhard (2017): NorthEuraLex (Version 0.9). T&uuml;bingen: Eberhard-Karls University.</p>\n</blockquote>",
@@ -13005,7 +13029,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-22",
+            "embargo_date": "2020-04-27",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3266685",
             "prereserve_doi": {
@@ -13024,7 +13048,19 @@
             "contributors": [
                 {
                     "name": "Johannes Dellert",
-                    "type": "Editor"
+                    "type": "DataCurator"
+                },
+                {
+                    "name": "Johannes Dellert",
+                    "type": "DataManager"
+                },
+                {
+                    "name": "Pavel Sofroniev",
+                    "type": "DataCurator"
+                },
+                {
+                    "name": "Pavel Sofroniev",
+                    "type": "DataManager"
                 }
             ],
             "references": [],
@@ -13067,7 +13103,7 @@
         },
         "created": "2019-07-03T06:29:13.598505+00:00",
         "id": 3266685,
-        "modified": "2020-04-22T08:39:48.842242+00:00",
+        "modified": "2020-04-27T13:53:44.188747+00:00",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -13095,13 +13131,13 @@
             "title": "CLDF dataset derived from Dellert et al.'s \"NorthEuraLex (Version 0.9)\" from 2020",
             "creators": [
                 {
+                    "name": "Tiago Tresoldi"
+                },
+                {
                     "name": "Johann-Mattis List"
                 },
                 {
                     "name": "Robert Forkel"
-                },
-                {
-                    "name": "Tiago Tresoldi"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Dellert, Johannes and J&auml;ger, Gerhard (2017): NorthEuraLex (Version 0.9). T&uuml;bingen: Eberhard-Karls University.</p>\n</blockquote>",
@@ -13110,7 +13146,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-22",
+            "embargo_date": "2020-04-27",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3266709",
             "prereserve_doi": {
@@ -13129,7 +13165,19 @@
             "contributors": [
                 {
                     "name": "Johannes Dellert",
-                    "type": "Editor"
+                    "type": "DataCurator"
+                },
+                {
+                    "name": "Johannes Dellert",
+                    "type": "DataManager"
+                },
+                {
+                    "name": "Pavel Sofroniev",
+                    "type": "DataCurator"
+                },
+                {
+                    "name": "Pavel Sofroniev",
+                    "type": "DataManager"
                 }
             ],
             "references": [],
@@ -13172,7 +13220,7 @@
         },
         "created": "2019-07-03T06:39:08.128164+00:00",
         "id": 3266709,
-        "modified": "2020-04-22T08:39:52.379680+00:00",
+        "modified": "2020-04-27T13:53:48.564698+00:00",
         "owner": 46881,
         "state": "inprogress",
         "submitted": true,
@@ -18226,13 +18274,13 @@
             "title": "CLDF dataset derived from Dellert et al.'s \"NorthEuraLex (Version 0.9)\" from 2020",
             "creators": [
                 {
+                    "name": "Tiago Tresoldi"
+                },
+                {
                     "name": "Johann-Mattis List"
                 },
                 {
                     "name": "Robert Forkel"
-                },
-                {
-                    "name": "Tiago Tresoldi"
                 }
             ],
             "description": "<p>Cite the source dataset as</p>\n\n<blockquote>\n<p>Dellert, Johannes and J&auml;ger, Gerhard (2017): NorthEuraLex (Version 0.9). T&uuml;bingen: Eberhard-Karls University.</p>\n</blockquote>",
@@ -18241,7 +18289,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-22",
+            "embargo_date": "2020-04-27",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3534991",
             "prereserve_doi": {
@@ -18268,7 +18316,19 @@
             "contributors": [
                 {
                     "name": "Johannes Dellert",
-                    "type": "Editor"
+                    "type": "DataCurator"
+                },
+                {
+                    "name": "Johannes Dellert",
+                    "type": "DataManager"
+                },
+                {
+                    "name": "Pavel Sofroniev",
+                    "type": "DataCurator"
+                },
+                {
+                    "name": "Pavel Sofroniev",
+                    "type": "DataManager"
                 }
             ],
             "references": [],
@@ -18311,7 +18371,7 @@
         },
         "created": "2019-11-11T09:14:02.019824+00:00",
         "id": 3534991,
-        "modified": "2020-04-22T08:42:37.609046+00:00",
+        "modified": "2020-04-27T13:54:29.415116+00:00",
         "owner": 46881,
         "state": "done",
         "submitted": true,
@@ -20268,7 +20328,7 @@
             "publication_type": null,
             "image_type": null,
             "license": "other-open",
-            "embargo_date": "2020-04-22",
+            "embargo_date": "2020-04-27",
             "access_conditions": null,
             "doi": "10.5281/zenodo.3537754",
             "prereserve_doi": {
@@ -20327,7 +20387,7 @@
         },
         "created": "2019-11-11T14:19:20.411520+00:00",
         "id": 3537754,
-        "modified": "2020-04-22T08:44:55.869432+00:00",
+        "modified": "2020-04-27T13:54:50.762784+00:00",
         "owner": 46881,
         "state": "done",
         "submitted": true,
